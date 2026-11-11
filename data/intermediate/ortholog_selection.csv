@@ -1,0 +1,255 @@
+name,species,length,identity,dbd_identity,n_rows_species,vertebrate,kept,reason
+Human_P53,homo_sapiens,393,1.0,1.0,1,True,False,human reference
+nomascus_leucogenys_P53_1,nomascus_leucogenys,361,0.8855,0.8063,1,True,True,highest identity to human for this species
+pan_troglodytes_P53_2,pan_troglodytes,393,1.0,1.0,1,True,True,highest identity to human for this species
+pongo_abelii_P53_3,pongo_abelii,418,0.9771,0.9948,1,True,True,highest identity to human for this species
+pan_paniscus_P53_4,pan_paniscus,393,1.0,1.0,1,True,True,highest identity to human for this species
+gorilla_gorilla_P53_5,gorilla_gorilla,403,0.8321,0.9948,1,True,True,highest identity to human for this species
+ornithorhynchus_anatinus_P53_6,ornithorhynchus_anatinus,468,0.5394,0.7644,1,True,True,highest identity to human for this species
+sarcophilus_harrisii_P53_7,sarcophilus_harrisii,418,0.6234,0.8377,1,True,True,highest identity to human for this species
+notamacropus_eugenii_P53_8,notamacropus_eugenii,227,0.4529,0.8429,1,True,True,highest identity to human for this species
+dasypus_novemcinctus_P53_9,dasypus_novemcinctus,386,0.7837,0.8691,1,True,True,highest identity to human for this species
+erinaceus_europaeus_P53_10,erinaceus_europaeus,375,0.5903,0.8482,1,True,True,highest identity to human for this species
+echinops_telfairi_P53_11,echinops_telfairi,335,0.5547,0.7696,2,True,True,highest identity to human for this species
+echinops_telfairi_P53_12,echinops_telfairi,329,0.3079,0.288,2,True,False,another row of this species is more similar to human
+callithrix_jacchus_P53_13,callithrix_jacchus,396,0.8626,0.9686,1,True,True,highest identity to human for this species
+cercocebus_atys_P53_14,cercocebus_atys,402,0.9211,0.9738,1,True,True,highest identity to human for this species
+macaca_fascicularis_P53_15,macaca_fascicularis,393,0.9567,0.9738,1,True,True,highest identity to human for this species
+macaca_mulatta_P53_16,macaca_mulatta,433,0.9567,0.9738,1,True,True,highest identity to human for this species
+macaca_nemestrina_P53_17,macaca_nemestrina,270,0.4656,0.6597,1,True,True,highest identity to human for this species
+papio_anubis_P53_18,papio_anubis,393,0.9567,0.9738,1,True,True,highest identity to human for this species
+mandrillus_leucophaeus_P53_19,mandrillus_leucophaeus,402,0.9211,0.9738,1,True,True,highest identity to human for this species
+mus_spretus_P53_20,mus_spretus,389,0.7557,0.8848,1,True,True,highest identity to human for this species
+vombatus_ursinus_P53_21,vombatus_ursinus,370,0.6489,0.8429,1,True,True,highest identity to human for this species
+panthera_leo_P53_22,panthera_leo,386,0.7939,0.8901,1,True,True,highest identity to human for this species
+ochotona_princeps_P53_23,ochotona_princeps,374,0.7405,0.9058,1,True,True,highest identity to human for this species
+bos_taurus_P53_24,bos_taurus,458,0.7837,0.911,1,True,True,highest identity to human for this species
+jaculus_jaculus_P53_25,jaculus_jaculus,372,0.7684,0.9634,1,True,True,highest identity to human for this species
+ursus_americanus_P53_26,ursus_americanus,381,0.7863,0.9058,1,True,True,highest identity to human for this species
+panthera_pardus_P53_27,panthera_pardus,386,0.7939,0.8901,1,True,True,highest identity to human for this species
+ovis_aries_P53_28,ovis_aries,410,0.7786,0.9005,1,True,True,highest identity to human for this species
+urocitellus_parryii_P53_29,urocitellus_parryii,394,0.8422,0.9476,1,True,True,highest identity to human for this species
+felis_catus_P53_30,felis_catus,415,0.7913,0.8901,1,True,True,highest identity to human for this species
+balaenoptera_musculus_P53_31,balaenoptera_musculus,387,0.8295,0.9372,1,True,True,highest identity to human for this species
+pteropus_vampyrus_P53_32,pteropus_vampyrus,391,0.5547,0.6597,1,True,True,highest identity to human for this species
+octodon_degus_P53_33,octodon_degus,388,0.7913,0.9162,1,True,True,highest identity to human for this species
+ailuropoda_melanoleuca_P53_34,ailuropoda_melanoleuca,474,0.7888,0.9058,1,True,True,highest identity to human for this species
+mesocricetus_auratus_P53_35,mesocricetus_auratus,395,0.7481,0.8953,1,True,True,highest identity to human for this species
+bison_bison_bison_P53_36,bison_bison_bison,386,0.7863,0.9162,1,True,True,highest identity to human for this species
+oryctolagus_cuniculus_P53_37,oryctolagus_cuniculus,391,0.8473,0.9581,2,True,True,highest identity to human for this species
+oryctolagus_cuniculus_P53_38,oryctolagus_cuniculus,178,0.341,0.5445,2,True,False,another row of this species is more similar to human
+vulpes_vulpes_P53_39,vulpes_vulpes,381,0.7888,0.9005,1,True,True,highest identity to human for this species
+phocoena_sinus_P53_40,phocoena_sinus,387,0.8295,0.9319,1,True,True,highest identity to human for this species
+otolemur_garnettii_P53_41,otolemur_garnettii,393,0.8346,0.9529,1,True,True,highest identity to human for this species
+mus_pahari_P53_42,mus_pahari,416,0.7557,0.8901,1,True,True,highest identity to human for this species
+carlito_syrichta_P53_43,carlito_syrichta,388,0.883,0.9686,1,True,True,highest identity to human for this species
+capra_hircus_P53_44,capra_hircus,382,0.7812,0.9058,1,True,True,highest identity to human for this species
+monodon_monoceros_P53_45,monodon_monoceros,387,0.8321,0.9319,1,True,True,highest identity to human for this species
+catagonus_wagneri_P53_46,catagonus_wagneri,386,0.8066,0.9372,1,True,True,highest identity to human for this species
+rhinopithecus_roxellana_P53_47,rhinopithecus_roxellana,393,0.9618,0.9738,1,True,True,highest identity to human for this species
+delphinapterus_leucas_P53_48,delphinapterus_leucas,396,0.8219,0.9319,1,True,True,highest identity to human for this species
+canis_lupus_dingo_P53_49,canis_lupus_dingo,381,0.7913,0.9005,1,True,True,highest identity to human for this species
+tursiops_truncatus_P53_50,tursiops_truncatus,387,0.827,0.9267,1,True,True,highest identity to human for this species
+bos_mutus_P53_51,bos_mutus,386,0.7863,0.9162,1,True,True,highest identity to human for this species
+rattus_norvegicus_P53_52,rattus_norvegicus,391,0.7684,0.9058,1,True,True,highest identity to human for this species
+canis_lupus_familiaris_P53_53,canis_lupus_familiaris,381,0.7913,0.9005,1,True,True,highest identity to human for this species
+myotis_lucifugus_P53_54,myotis_lucifugus,392,0.7252,0.8848,2,True,True,highest identity to human for this species
+myotis_lucifugus_P53_55,myotis_lucifugus,388,0.598,0.7749,2,True,False,another row of this species is more similar to human
+mus_musculus_P53_56,mus_musculus,390,0.7557,0.8848,1,True,True,highest identity to human for this species
+cricetulus_griseus_picr_P53_57,cricetulus_griseus_picr,383,0.7201,0.8953,1,True,True,highest identity to human for this species
+sciurus_vulgaris_P53_58,sciurus_vulgaris,390,0.8524,0.9634,1,True,True,highest identity to human for this species
+microcebus_murinus_P53_59,microcebus_murinus,385,0.855,0.9424,1,True,True,highest identity to human for this species
+phascolarctos_cinereus_P53_60,phascolarctos_cinereus,503,0.6412,0.8482,1,True,True,highest identity to human for this species
+prolemur_simus_P53_61,prolemur_simus,399,0.6718,0.9267,1,True,True,highest identity to human for this species
+loxodonta_africana_P53_62,loxodonta_africana,360,0.5547,0.5707,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_63,loxodonta_africana,367,0.5929,0.6492,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_64,loxodonta_africana,367,0.57,0.6126,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_65,loxodonta_africana,365,0.458,0.5812,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_66,loxodonta_africana,364,0.5776,0.6335,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_67,loxodonta_africana,288,0.4453,0.6545,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_68,loxodonta_africana,360,0.5649,0.6126,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_69,loxodonta_africana,364,0.5776,0.6126,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_70,loxodonta_africana,392,0.7659,0.8482,12,True,True,highest identity to human for this species
+loxodonta_africana_P53_71,loxodonta_africana,363,0.5674,0.6492,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_72,loxodonta_africana,362,0.5827,0.6492,12,True,False,another row of this species is more similar to human
+loxodonta_africana_P53_73,loxodonta_africana,367,0.5547,0.6021,12,True,False,another row of this species is more similar to human
+bos_grunniens_P53_74,bos_grunniens,386,0.7863,0.9162,1,True,True,highest identity to human for this species
+chinchilla_lanigera_P53_75,chinchilla_lanigera,391,0.8168,0.911,1,True,True,highest identity to human for this species
+tupaia_belangeri_P53_76,tupaia_belangeri,378,0.3791,0.4346,1,True,True,highest identity to human for this species
+procavia_capensis_P53_77,procavia_capensis,385,0.7379,0.8534,1,True,True,highest identity to human for this species
+camelus_dromedarius_P53_78,camelus_dromedarius,381,0.8117,0.9267,1,True,True,highest identity to human for this species
+dipodomys_ordii_P53_79,dipodomys_ordii,356,0.7023,0.911,1,True,True,highest identity to human for this species
+equus_caballus_P53_80,equus_caballus,426,0.8041,0.9267,1,True,True,highest identity to human for this species
+moschus_moschiferus_P53_81,moschus_moschiferus,387,0.7964,0.9267,1,True,True,highest identity to human for this species
+mus_spicilegus_P53_82,mus_spicilegus,388,0.7557,0.8901,1,True,True,highest identity to human for this species
+rhinolophus_ferrumequinum_P53_83,rhinolophus_ferrumequinum,380,0.8041,0.9058,1,True,True,highest identity to human for this species
+nannospalax_galili_P53_84,nannospalax_galili,391,0.8321,0.9581,1,True,True,highest identity to human for this species
+cervus_hanglu_yarkandensis_P53_85,cervus_hanglu_yarkandensis,389,0.7812,0.9058,1,True,True,highest identity to human for this species
+ursus_maritimus_P53_86,ursus_maritimus,381,0.7837,0.9058,1,True,True,highest identity to human for this species
+ictidomys_tridecemlineatus_P53_87,ictidomys_tridecemlineatus,391,0.8448,0.9476,1,True,True,highest identity to human for this species
+microtus_ochrogaster_P53_88,microtus_ochrogaster,380,0.7761,0.9476,1,True,True,highest identity to human for this species
+sorex_araneus_P53_89,sorex_araneus,386,0.7684,0.8586,1,True,True,highest identity to human for this species
+propithecus_coquereli_P53_90,propithecus_coquereli,385,0.8753,0.9686,1,True,True,highest identity to human for this species
+sus_scrofa_P53_91,sus_scrofa,395,0.7888,0.9267,1,True,True,highest identity to human for this species
+mus_caroli_P53_92,mus_caroli,390,0.7659,0.8901,1,True,True,highest identity to human for this species
+panthera_tigris_altaica_P53_93,panthera_tigris_altaica,299,0.4555,0.4921,1,True,True,highest identity to human for this species
+mustela_putorius_furo_P53_94,mustela_putorius_furo,375,0.7735,0.9005,1,True,True,highest identity to human for this species
+bos_indicus_hybrid_P53_95,bos_indicus_hybrid,499,0.7837,0.911,1,True,True,highest identity to human for this species
+marmota_marmota_marmota_P53_96,marmota_marmota_marmota,392,0.8473,0.9529,1,True,True,highest identity to human for this species
+rhinopithecus_bieti_P53_97,rhinopithecus_bieti,393,0.9618,0.9738,1,True,True,highest identity to human for this species
+cebus_imitator_P53_98,cebus_imitator,395,0.8957,0.9634,1,True,True,highest identity to human for this species
+saimiri_boliviensis_boliviensis_P53_99,saimiri_boliviensis_boliviensis,356,0.8346,0.9319,1,True,True,highest identity to human for this species
+chlorocebus_sabaeus_P53_100,chlorocebus_sabaeus,393,0.9593,0.9738,1,True,True,highest identity to human for this species
+physeter_catodon_P53_101,physeter_catodon,387,0.8321,0.9372,1,True,True,highest identity to human for this species
+heterocephalus_glaber_female_P53_102,heterocephalus_glaber_female,390,0.8168,0.9162,1,True,True,highest identity to human for this species
+equus_asinus_P53_103,equus_asinus,381,0.8015,0.9267,1,True,True,highest identity to human for this species
+peromyscus_maniculatus_bairdii_P53_104,peromyscus_maniculatus_bairdii,208,0.4046,0.6492,2,True,False,another row of this species is more similar to human
+peromyscus_maniculatus_bairdii_P53_105,peromyscus_maniculatus_bairdii,388,0.8092,0.9424,2,True,True,highest identity to human for this species
+cavia_porcellus_P53_106,cavia_porcellus,423,0.7761,0.8953,1,True,True,highest identity to human for this species
+neovison_vison_P53_107,neovison_vison,379,0.7761,0.9005,1,True,True,highest identity to human for this species
+aotus_nancymaae_P53_108,aotus_nancymaae,367,0.6107,0.7016,4,True,False,another row of this species is more similar to human
+aotus_nancymaae_P53_109,aotus_nancymaae,210,0.4326,0.6806,4,True,False,another row of this species is more similar to human
+aotus_nancymaae_P53_110,aotus_nancymaae,328,0.6031,0.5131,4,True,False,another row of this species is more similar to human
+aotus_nancymaae_P53_111,aotus_nancymaae,337,0.6692,0.7644,4,True,True,highest identity to human for this species
+drosophila_melanogaster_P53_112,drosophila_melanogaster,495,0.1476,0.2461,1,False,False,non-vertebrate species
+ciona_intestinalis_P53_113,ciona_intestinalis,419,0.2468,0.4031,2,False,False,non-vertebrate species
+ciona_intestinalis_P53_114,ciona_intestinalis,489,0.2672,0.3927,2,False,False,non-vertebrate species
+latimeria_chalumnae_P53_115,latimeria_chalumnae,401,0.4707,0.6963,1,True,True,highest identity to human for this species
+lepisosteus_oculatus_P53_116,lepisosteus_oculatus,395,0.4707,0.6806,1,True,True,highest identity to human for this species
+clupea_harengus_P53_117,clupea_harengus,370,0.4122,0.6492,3,True,True,highest identity to human for this species
+clupea_harengus_P53_118,clupea_harengus,344,0.3893,0.644,3,True,False,another row of this species is more similar to human
+clupea_harengus_P53_119,clupea_harengus,396,0.4097,0.6073,3,True,False,another row of this species is more similar to human
+danio_rerio_P53_120,danio_rerio,369,0.4555,0.712,1,True,True,highest identity to human for this species
+carassius_auratus_P53_121,carassius_auratus,388,0.4275,0.7016,3,True,False,another row of this species is more similar to human
+carassius_auratus_P53_122,carassius_auratus,246,0.285,0.4869,3,True,False,another row of this species is more similar to human
+carassius_auratus_P53_123,carassius_auratus,356,0.43,0.712,3,True,True,highest identity to human for this species
+astyanax_mexicanus_P53_124,astyanax_mexicanus,356,0.402,0.7016,2,True,False,another row of this species is more similar to human
+astyanax_mexicanus_P53_125,astyanax_mexicanus,394,0.4173,0.6492,2,True,True,highest identity to human for this species
+ictalurus_punctatus_P53_126,ictalurus_punctatus,414,0.4606,0.7225,2,True,True,highest identity to human for this species
+ictalurus_punctatus_P53_127,ictalurus_punctatus,394,0.4173,0.6073,2,True,False,another row of this species is more similar to human
+electrophorus_electricus_P53_128,electrophorus_electricus,370,0.458,0.7068,2,True,True,highest identity to human for this species
+electrophorus_electricus_P53_129,electrophorus_electricus,397,0.3791,0.5864,2,True,False,another row of this species is more similar to human
+esox_lucius_P53_130,esox_lucius,396,0.4758,0.7068,2,True,True,highest identity to human for this species
+esox_lucius_P53_131,esox_lucius,390,0.3995,0.6335,2,True,False,another row of this species is more similar to human
+oncorhynchus_kisutch_P53_132,oncorhynchus_kisutch,396,0.4733,0.7068,3,True,True,highest identity to human for this species
+oncorhynchus_kisutch_P53_133,oncorhynchus_kisutch,392,0.3969,0.6283,3,True,False,another row of this species is more similar to human
+oncorhynchus_kisutch_P53_134,oncorhynchus_kisutch,397,0.402,0.6335,3,True,False,another row of this species is more similar to human
+oncorhynchus_mykiss_P53_135,oncorhynchus_mykiss,409,0.4529,0.712,3,True,True,highest identity to human for this species
+oncorhynchus_mykiss_P53_136,oncorhynchus_mykiss,398,0.3995,0.6283,3,True,False,another row of this species is more similar to human
+oncorhynchus_mykiss_P53_137,oncorhynchus_mykiss,412,0.4046,0.6387,3,True,False,another row of this species is more similar to human
+salmo_salar_P53_138,salmo_salar,392,0.4046,0.6335,2,True,False,another row of this species is more similar to human
+salmo_salar_P53_139,salmo_salar,389,0.4707,0.7068,2,True,True,highest identity to human for this species
+salmo_trutta_P53_140,salmo_trutta,400,0.402,0.6387,3,True,False,another row of this species is more similar to human
+salmo_trutta_P53_141,salmo_trutta,396,0.4707,0.7068,3,True,True,highest identity to human for this species
+salmo_trutta_P53_142,salmo_trutta,392,0.3995,0.6283,3,True,False,another row of this species is more similar to human
+gadus_morhua_P53_143,gadus_morhua,438,0.369,0.6178,1,True,True,highest identity to human for this species
+fundulus_heteroclitus_P53_144,fundulus_heteroclitus,352,0.374,0.5864,1,True,True,highest identity to human for this species
+poecilia_reticulata_P53_145,poecilia_reticulata,342,0.3842,0.5812,1,True,True,highest identity to human for this species
+xiphophorus_maculatus_P53_146,xiphophorus_maculatus,342,0.3817,0.5969,2,True,True,highest identity to human for this species
+xiphophorus_maculatus_P53_147,xiphophorus_maculatus,342,0.2061,0.2984,2,True,False,another row of this species is more similar to human
+oryzias_latipes_P53_148,oryzias_latipes,352,0.3588,0.5864,1,True,True,highest identity to human for this species
+cyclopterus_lumpus_P53_149,cyclopterus_lumpus,385,0.3893,0.6073,1,True,True,highest identity to human for this species
+oreochromis_niloticus_P53_150,oreochromis_niloticus,375,0.3919,0.6126,1,True,True,highest identity to human for this species
+haplochromis_burtoni_P53_151,haplochromis_burtoni,391,0.4097,0.6073,1,True,True,highest identity to human for this species
+astatotilapia_calliptera_P53_152,astatotilapia_calliptera,384,0.402,0.6021,1,True,True,highest identity to human for this species
+sparus_aurata_P53_153,sparus_aurata,379,0.3868,0.6021,1,True,True,highest identity to human for this species
+lates_calcarifer_P53_154,lates_calcarifer,380,0.3868,0.5969,1,True,True,highest identity to human for this species
+xenopus_tropicalis_P53_155,xenopus_tropicalis,362,0.4555,0.6754,1,True,True,highest identity to human for this species
+chrysemys_picta_bellii_P53_156,chrysemys_picta_bellii,403,0.4555,0.712,1,True,True,highest identity to human for this species
+crocodylus_porosus_P53_157,crocodylus_porosus,381,0.0916,0.1204,1,True,True,highest identity to human for this species
+sphenodon_punctatus_P53_158,sphenodon_punctatus,317,0.3817,0.6597,1,True,True,highest identity to human for this species
+laticauda_laticaudata_P53_159,laticauda_laticaudata,414,0.369,0.6335,1,True,True,highest identity to human for this species
+notechis_scutatus_P53_160,notechis_scutatus,383,0.341,0.6283,1,True,True,highest identity to human for this species
+pseudonaja_textilis_P53_161,pseudonaja_textilis,149,0.2214,0.4503,1,True,True,highest identity to human for this species
+gallus_gallus_P53_162,gallus_gallus,195,0.2799,0.4346,1,True,True,highest identity to human for this species
+erpetoichthys_calabaricus_P53_163,erpetoichthys_calabaricus,416,0.4758,0.6859,1,True,True,highest identity to human for this species
+xiphophorus_couchianus_P53_164,xiphophorus_couchianus,332,0.3766,0.5969,1,True,True,highest identity to human for this species
+cyprinodon_variegatus_P53_165,cyprinodon_variegatus,351,0.3791,0.6021,1,True,True,highest identity to human for this species
+poecilia_latipinna_P53_166,poecilia_latipinna,342,0.3766,0.5812,1,True,True,highest identity to human for this species
+pygocentrus_nattereri_P53_167,pygocentrus_nattereri,389,0.4122,0.6283,2,True,False,another row of this species is more similar to human
+pygocentrus_nattereri_P53_168,pygocentrus_nattereri,409,0.4656,0.7016,2,True,True,highest identity to human for this species
+taeniopygia_guttata_P53_169,taeniopygia_guttata,422,0.2926,0.5445,2,True,False,another row of this species is more similar to human
+taeniopygia_guttata_P53_170,taeniopygia_guttata,333,0.3562,0.6335,2,True,True,highest identity to human for this species
+amphilophus_citrinellus_P53_171,amphilophus_citrinellus,352,0.3817,0.5969,1,True,True,highest identity to human for this species
+oryzias_melastigma_P53_172,oryzias_melastigma,346,0.374,0.5864,1,True,True,highest identity to human for this species
+anabas_testudineus_P53_173,anabas_testudineus,381,0.3944,0.6021,1,True,True,highest identity to human for this species
+anolis_carolinensis_P53_174,anolis_carolinensis,152,0.1781,0.2565,1,True,True,highest identity to human for this species
+ciona_savignyi_P53_175,ciona_savignyi,397,0.2316,0.377,2,False,False,non-vertebrate species
+ciona_savignyi_P53_176,ciona_savignyi,481,0.2468,0.3717,2,False,False,non-vertebrate species
+amphiprion_percula_P53_177,amphiprion_percula,375,0.3868,0.6021,1,True,True,highest identity to human for this species
+oryzias_javanicus_P53_178,oryzias_javanicus,348,0.369,0.5812,1,True,True,highest identity to human for this species
+cottoperca_gobio_P53_179,cottoperca_gobio,373,0.3842,0.6126,1,True,True,highest identity to human for this species
+seriola_dumerili_P53_180,seriola_dumerili,377,0.3791,0.5916,1,True,True,highest identity to human for this species
+aquila_chrysaetos_chrysaetos_P53_181,aquila_chrysaetos_chrysaetos,210,0.2545,0.4921,1,True,True,highest identity to human for this species
+oncorhynchus_tshawytscha_P53_182,oncorhynchus_tshawytscha,420,0.4097,0.644,3,True,False,another row of this species is more similar to human
+oncorhynchus_tshawytscha_P53_183,oncorhynchus_tshawytscha,451,0.4733,0.7068,3,True,True,highest identity to human for this species
+oncorhynchus_tshawytscha_P53_184,oncorhynchus_tshawytscha,427,0.3969,0.6283,3,True,False,another row of this species is more similar to human
+kryptolebias_marmoratus_P53_185,kryptolebias_marmoratus,372,0.4046,0.5969,1,True,True,highest identity to human for this species
+naja_naja_P53_186,naja_naja,154,0.1832,0.377,1,True,True,highest identity to human for this species
+pelodiscus_sinensis_P53_187,pelodiscus_sinensis,390,0.4631,0.7277,1,True,True,highest identity to human for this species
+neolamprologus_brichardi_P53_188,neolamprologus_brichardi,357,0.3511,0.5969,1,True,True,highest identity to human for this species
+betta_splendens_P53_189,betta_splendens,192,0.2214,0.3822,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_190,betta_splendens,246,0.2545,0.4346,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_191,betta_splendens,336,0.3359,0.5445,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_192,betta_splendens,243,0.229,0.4241,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_193,betta_splendens,259,0.2697,0.5079,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_194,betta_splendens,275,0.2621,0.4974,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_195,betta_splendens,192,0.2112,0.4084,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_196,betta_splendens,260,0.2519,0.4817,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_197,betta_splendens,223,0.2595,0.445,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_198,betta_splendens,216,0.2545,0.4136,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_199,betta_splendens,451,0.2595,0.4031,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_200,betta_splendens,219,0.2799,0.466,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_201,betta_splendens,223,0.2595,0.445,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_202,betta_splendens,167,0.2188,0.4346,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_203,betta_splendens,201,0.2443,0.3979,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_204,betta_splendens,222,0.2595,0.4346,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_205,betta_splendens,167,0.2188,0.4346,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_206,betta_splendens,136,0.201,0.3822,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_207,betta_splendens,451,0.2672,0.4031,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_208,betta_splendens,437,0.2697,0.4503,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_209,betta_splendens,290,0.2774,0.4712,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_210,betta_splendens,359,0.374,0.6021,25,True,True,highest identity to human for this species
+betta_splendens_P53_211,betta_splendens,407,0.2494,0.4084,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_212,betta_splendens,174,0.2214,0.4398,25,True,False,another row of this species is more similar to human
+betta_splendens_P53_213,betta_splendens,451,0.2672,0.4031,25,True,False,another row of this species is more similar to human
+scleropages_formosus_P53_214,scleropages_formosus,462,0.4682,0.6911,2,True,True,highest identity to human for this species
+scleropages_formosus_P53_215,scleropages_formosus,400,0.3562,0.5812,2,True,False,another row of this species is more similar to human
+gopherus_evgoodei_P53_216,gopherus_evgoodei,407,0.4504,0.6963,1,True,True,highest identity to human for this species
+denticeps_clupeoides_P53_217,denticeps_clupeoides,373,0.3842,0.5707,2,True,False,another row of this species is more similar to human
+denticeps_clupeoides_P53_218,denticeps_clupeoides,385,0.4478,0.7068,2,True,True,highest identity to human for this species
+pundamilia_nyererei_P53_219,pundamilia_nyererei,357,0.3028,0.3979,1,True,True,highest identity to human for this species
+cyprinus_carpio_carpio_P53_220,cyprinus_carpio_carpio,384,0.4402,0.7173,3,True,False,another row of this species is more similar to human
+cyprinus_carpio_carpio_P53_221,cyprinus_carpio_carpio,374,0.3995,0.6126,3,True,False,another row of this species is more similar to human
+cyprinus_carpio_carpio_P53_222,cyprinus_carpio_carpio,428,0.4453,0.7016,3,True,True,highest identity to human for this species
+chelonoidis_abingdonii_P53_223,chelonoidis_abingdonii,407,0.4529,0.6963,1,True,True,highest identity to human for this species
+tetraodon_nigroviridis_P53_224,tetraodon_nigroviridis,364,0.3842,0.5812,1,True,True,highest identity to human for this species
+salvator_merianae_P53_225,salvator_merianae,393,0.43,0.6911,1,True,True,highest identity to human for this species
+seriola_lalandi_dorsalis_P53_226,seriola_lalandi_dorsalis,377,0.3766,0.5916,1,True,True,highest identity to human for this species
+terrapene_carolina_triunguis_P53_227,terrapene_carolina_triunguis,403,0.4682,0.7277,1,True,True,highest identity to human for this species
+paramormyrops_kingsleyae_P53_228,paramormyrops_kingsleyae,441,0.3766,0.6021,2,True,False,another row of this species is more similar to human
+paramormyrops_kingsleyae_P53_229,paramormyrops_kingsleyae,431,0.4656,0.7068,2,True,True,highest identity to human for this species
+scophthalmus_maximus_P53_230,scophthalmus_maximus,381,0.3944,0.6021,1,True,True,highest identity to human for this species
+amphiprion_ocellaris_P53_231,amphiprion_ocellaris,375,0.3868,0.6021,1,True,True,highest identity to human for this species
+hucho_hucho_P53_232,hucho_hucho,387,0.402,0.6335,3,True,False,another row of this species is more similar to human
+hucho_hucho_P53_233,hucho_hucho,388,0.3944,0.623,3,True,False,another row of this species is more similar to human
+hucho_hucho_P53_234,hucho_hucho,430,0.4758,0.7068,3,True,True,highest identity to human for this species
+maylandia_zebra_P53_235,maylandia_zebra,359,0.3588,0.6021,1,True,True,highest identity to human for this species
+oryzias_sinensis_P53_236,oryzias_sinensis,355,0.3639,0.5864,1,True,True,highest identity to human for this species
+acanthochromis_polyacanthus_P53_237,acanthochromis_polyacanthus,373,0.3919,0.6073,1,True,True,highest identity to human for this species
+stegastes_partitus_P53_238,stegastes_partitus,381,0.3868,0.5916,1,True,True,highest identity to human for this species
+poecilia_formosa_P53_239,poecilia_formosa,342,0.3791,0.5864,1,True,True,highest identity to human for this species
+dicentrarchus_labrax_P53_240,dicentrarchus_labrax,360,0.3766,0.5916,1,True,True,highest identity to human for this species
+myripristis_murdjan_P53_241,myripristis_murdjan,377,0.3919,0.5969,1,True,True,highest identity to human for this species
+labrus_bergylta_P53_242,labrus_bergylta,374,0.3791,0.5864,1,True,True,highest identity to human for this species
+nothobranchius_furzeri_P53_243,nothobranchius_furzeri,372,0.3588,0.5759,1,True,True,highest identity to human for this species
+podarcis_muralis_P53_244,podarcis_muralis,393,0.3766,0.644,1,True,True,highest identity to human for this species
+gasterosteus_aculeatus_P53_245,gasterosteus_aculeatus,386,0.3537,0.5707,1,True,True,highest identity to human for this species
+sander_lucioperca_P53_246,sander_lucioperca,395,0.3919,0.6178,1,True,True,highest identity to human for this species
+takifugu_rubripes_P53_247,takifugu_rubripes,391,0.3919,0.5916,1,True,True,highest identity to human for this species
+hippocampus_comes_P53_248,hippocampus_comes,376,0.3588,0.5654,1,True,True,highest identity to human for this species
+mastacembelus_armatus_P53_249,mastacembelus_armatus,381,0.374,0.5969,1,True,True,highest identity to human for this species
+strigops_habroptila_P53_250,strigops_habroptila,324,0.3969,0.6387,1,True,True,highest identity to human for this species
+cynoglossus_semilaevis_P53_251,cynoglossus_semilaevis,377,0.3919,0.5916,1,True,True,highest identity to human for this species
+leptobrachium_leishanense_P53_252,leptobrachium_leishanense,377,0.4046,0.6649,1,True,True,highest identity to human for this species
+larimichthys_crocea_P53_253,larimichthys_crocea,358,0.3766,0.5969,1,True,True,highest identity to human for this species

@@ -1,0 +1,12 @@
+# environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# structures are attached to the GitHub release as QuadSig_structures.tar.gz
+data/structures/
+logs/
+results_v2_msa254/
+*.pdb
+*.cif

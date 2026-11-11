@@ -1,0 +1,17 @@
+Figure 2  (n = 7,467; thresholds 0.5634 / 0.6056)
+  a: Likely benign n = 3,404
+  a: Ambiguous n = 792
+  a: Likely pathogenic n = 3,271
+  b: DBD n = 3,629, mean 0.66
+  b: TET n = 646, mean 0.63
+  b: TAD n = 1,273, mean 0.48
+  b: LINKER n = 760, mean 0.47
+  b: CTD n = 570, mean 0.45
+  b: PRR n = 589, mean 0.42
+  c: Likely pathogenic 3,271 (43.8%)
+  c: Ambiguous 792 (10.6%)
+  c: Likely benign 3,404 (45.6%)
+  [fig2] layout check: 48 texts, 0 problems, smallest font 6.2 pt
+Figure 3  (Spearman conservation 0.76; BLOSUM62 -0.29; CV accuracy 82.8%)
+  c: ClinVar benign n = 157, pathogenic n = 233, threshold 0.606
+  [fig3] layout check: 49 texts, 0 problems, smallest font 6 pt

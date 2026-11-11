@@ -1,0 +1,37 @@
+QuadSig v2 rerun  2026-11-10 14:23
+
+[1] Scoring (no minimum scores, no extra rules)
+  7467 mutations; score range 0.036-0.952, mean 0.575
+
+[2] ClinVar (germline classification, consensus rule)
+  reused /home/raza/QuadSig/results_v2/clinvar_records.csv
+  missense records with germline classification: 1443; unique protein changes: 1366 (pathogenic 233, benign 157, uncertain 976)
+  labelled variants matched to the 7,467 set: 390 (233 pathogenic, 157 benign)
+
+[3] Threshold and performance (Youden cut-off; stratified 5-fold CV, seed 42)
+  ROC-AUC (threshold-free): 0.890
+  fold thresholds: 0.5634, 0.5794, 0.6056, 0.5773, 0.6056
+  CROSS-VALIDATED (out-of-fold, n=390): accuracy 82.8%, sensitivity 89.3%, specificity 73.2%, balanced accuracy 81.3%  [TP 208 FN 25 FP 42 TN 115]
+  IN-SAMPLE (threshold 0.5773 fit on all labelled): accuracy 85.1%, sensitivity 94.4%, specificity 71.3%
+  Final classification: likely pathogenic >= 0.6056; ambiguous 0.5634-0.6056 (range of fold thresholds); likely benign < 0.5634
+  categories: likely_pathogenic 3271 (43.8%), ambiguous 792 (10.6%), likely_benign 3404 (45.6%)
+  ClinVar uncertain/conflicting protein changes in the set: 974 -> likely_pathogenic 398, ambiguous 101, likely_benign 475
+
+[4] Seven consistency checks (targets set before the rerun; reported as met / not met)
+  ClinVar agreement, cross-validated                  82.8%  target >= 85%       NOT MET
+  Conservation correlation (Spearman)                  0.76  target >= 0.50      MET
+  Domain gradient (DBD highest)                  DBD = 0.66  target DBD highest  MET
+  Zinc-residue mean score                              0.77  target >= 0.85      NOT MET
+  GOF hotspots likely pathogenic                        7/7  target 7/7          MET
+  BLOSUM62 anti-correlation (Spearman)                -0.29  target <= -0.30     NOT MET
+  DBD pathogenic enrichment                      69% vs 20%  target DBD > non-DBD MET
+  domain means: DBD 0.66 (n=3629), TET 0.63 (n=646), TAD 0.48 (n=1273), LINKER 0.47 (n=760), CTD 0.45 (n=570), PRR 0.42 (n=589)
+  zinc substitutions: n=76, min 0.619, 76 likely pathogenic
+  hotspots: R175H 0.66 (pathogenic; ClinVar pathogenic; RMSD 0.72), G245S 0.61 (pathogenic; ClinVar pathogenic; RMSD 0.77), R248W 0.79 (pathogenic; ClinVar pathogenic; RMSD 2.82), R248Q 0.64 (pathogenic; ClinVar pathogenic; RMSD 1.16), R249S 0.80 (pathogenic; ClinVar pathogenic; RMSD 2.67), R273H 0.63 (pathogenic; ClinVar pathogenic; RMSD 0.60), R273C 0.71 (pathogenic; ClinVar pathogenic; RMSD 0.96)
+  P72R: score 0.036, likely_benign, ClinVar benign, AF 0.7163184765845761
+  gnomAD: 87 of 7467 observed; hotspots observed: R248W, R248Q
+
+[5] Figures from results_v2/results.csv
+  wrote fig2.png/.pdf and fig3.png/.pdf (600 dpi)
+
+Done. Outputs in /home/raza/QuadSig/results_v2

@@ -1,0 +1,1350 @@
+mutation,clinvar_significance,clinvar_label
+K381N,Uncertain significance,uncertain
+K372E,Uncertain significance,uncertain
+M243I,Uncertain significance,uncertain
+Y220F,Likely benign,benign
+P92S,Likely benign,benign
+L369M,Likely benign,benign
+Q104H,Uncertain significance,uncertain
+L299V,Likely benign,benign
+P152A,Uncertain significance,uncertain
+P92T,Uncertain significance,uncertain
+V73L,Uncertain significance,uncertain
+S15I,Uncertain significance,uncertain
+N30Y,Uncertain significance,uncertain
+A88T,Uncertain significance,uncertain
+S95P,Uncertain significance,uncertain
+S106C,Uncertain significance,uncertain
+K139N,Uncertain significance,uncertain
+W146R,Uncertain significance,uncertain
+Y205F,Uncertain significance,uncertain
+N288S,Uncertain significance,uncertain
+E294D,Uncertain significance,uncertain
+F328V,Uncertain significance,uncertain
+L330V,Uncertain significance,uncertain
+K370R,Uncertain significance,uncertain
+D391E,Uncertain significance,uncertain
+P75S,Likely benign,benign
+E287G,Likely benign,benign
+D61E,Uncertain significance,uncertain
+R290S,Uncertain significance,uncertain
+M340T,Uncertain significance,uncertain
+S371F,Uncertain significance,uncertain
+K291R,Uncertain significance,uncertain
+G279A,Uncertain significance,uncertain
+E388D,Likely benign,benign
+R363W,Uncertain significance,uncertain
+A74T,Uncertain significance,uncertain
+H168Y,Uncertain significance,uncertain
+P77L,Uncertain significance,uncertain
+N131H,Likely pathogenic,pathogenic
+Q100P,Uncertain significance,uncertain
+A79V,Likely benign,benign
+L188P,Uncertain significance,uncertain
+R175S,Conflicting classifications of pathogenicity,uncertain
+I332L,Likely benign,benign
+H368D,Uncertain significance,uncertain
+S95T,Likely benign,benign
+N239K,Pathogenic,pathogenic
+L350R,Likely benign,benign
+C124R,Likely pathogenic,pathogenic
+D207G,Uncertain significance,uncertain
+S240C,Likely pathogenic,pathogenic
+L137Q,Uncertain significance,uncertain
+E326D,Likely benign,benign
+D21A,Likely benign,benign
+L206F,Uncertain significance,uncertain
+D208E,Uncertain significance,uncertain
+S378T,Likely benign,benign
+A83P,Likely benign,benign
+P142T,Uncertain significance,uncertain
+A189T,Uncertain significance,uncertain
+Q136L,Uncertain significance,uncertain
+A83S,Uncertain significance,uncertain
+E56G,Uncertain significance,uncertain
+E286D,Uncertain significance,uncertain
+C135S,Likely pathogenic,pathogenic
+K321T,Uncertain significance,uncertain
+A276V,Uncertain significance,uncertain
+P12S,Uncertain significance,uncertain
+P142A,Uncertain significance,uncertain
+D207E,Likely benign,benign
+E62G,Likely benign,benign
+C124W,Likely benign,benign
+S166T,Likely benign,benign
+K120T,Uncertain significance,uncertain
+E336G,Conflicting classifications of pathogenicity,uncertain
+S261R,Uncertain significance,uncertain
+P64T,Uncertain significance,uncertain
+N345S,Uncertain significance,uncertain
+N235I,Uncertain significance,uncertain
+D21N,Uncertain significance,uncertain
+E28K,Uncertain significance,uncertain
+N30D,Uncertain significance,uncertain
+P64L,Uncertain significance,uncertain
+P92H,Uncertain significance,uncertain
+S94T,Uncertain significance,uncertain
+G112A,Uncertain significance,uncertain
+F113L,Pathogenic,pathogenic
+Q165E,Conflicting classifications of pathogenicity,uncertain
+Y205S,Uncertain significance,uncertain
+S227F,Uncertain significance,uncertain
+G244R,Uncertain significance,uncertain
+D259N,Uncertain significance,uncertain
+E271Q,Uncertain significance,uncertain
+P300S,Uncertain significance,uncertain
+T304S,Uncertain significance,uncertain
+P309T,Uncertain significance,uncertain
+T377S,Uncertain significance,uncertain
+D393V,Uncertain significance,uncertain
+D393G,Uncertain significance,uncertain
+S15G,Uncertain significance,uncertain
+V147G,Pathogenic/Likely pathogenic,pathogenic
+C182S,Uncertain significance,uncertain
+F212S,Likely benign,benign
+G356E,Likely benign,benign
+A76G,Benign,benign
+E343D,Benign,benign
+V274I,Benign,benign
+T170S,Uncertain significance,uncertain
+T118R,Uncertain significance,uncertain
+V73E,Likely benign,benign
+S94A,Likely benign,benign
+E204D,Likely benign,benign
+H193N,Pathogenic/Likely pathogenic,pathogenic
+M44V,Conflicting classifications of pathogenicity,uncertain
+V197A,Uncertain significance,uncertain
+L93P,Uncertain significance,uncertain
+P295H,Uncertain significance,uncertain
+R306G,Uncertain significance,uncertain
+Q354P,Likely benign,benign
+K319T,Likely benign,benign
+K373N,Uncertain significance,uncertain
+S149C,Uncertain significance,uncertain
+G302A,Likely benign,benign
+R335L,Likely benign,benign
+H168P,Likely pathogenic,pathogenic
+S183P,Likely benign,benign
+M340I,Likely benign,benign
+I255V,Uncertain significance,uncertain
+D352N,Uncertain significance,uncertain
+N210S,Likely benign,benign
+W91S,Uncertain significance,uncertain
+E56K,Uncertain significance,uncertain
+D391N,Conflicting classifications of pathogenicity,uncertain
+L383P,Uncertain significance,uncertain
+Q354L,Benign,benign
+T253P,Conflicting classifications of pathogenicity,uncertain
+E271V,Likely pathogenic,pathogenic
+S269N,Uncertain significance,uncertain
+P67A,Uncertain significance,uncertain
+K320T,Uncertain significance,uncertain
+F341L,Conflicting classifications of pathogenicity,uncertain
+S378Y,Uncertain significance,uncertain
+E346G,Conflicting classifications of pathogenicity,uncertain
+G262D,Uncertain significance,uncertain
+D207N,Conflicting classifications of pathogenicity,uncertain
+M160T,Uncertain significance,uncertain
+S315P,Uncertain significance,uncertain
+M169L,Uncertain significance,uncertain
+I50L,Uncertain significance,uncertain
+E298D,Uncertain significance,uncertain
+P87A,Conflicting classifications of pathogenicity,uncertain
+E271G,Uncertain significance,uncertain
+P219A,Uncertain significance,uncertain
+P4A,Uncertain significance,uncertain
+K164N,Uncertain significance,uncertain
+D352H,Uncertain significance,uncertain
+N310H,Uncertain significance,uncertain
+G154A,Uncertain significance,uncertain
+Q331H,Uncertain significance,uncertain
+N268S,Uncertain significance,uncertain
+P85A,Uncertain significance,uncertain
+P87S,Uncertain significance,uncertain
+I232F,Conflicting classifications of pathogenicity,uncertain
+T256K,Uncertain significance,uncertain
+L93R,Uncertain significance,uncertain
+K357T,Uncertain significance,uncertain
+V10D,Uncertain significance,uncertain
+G59C,Uncertain significance,uncertain
+P85L,Uncertain significance,uncertain
+A307T,Conflicting classifications of pathogenicity,uncertain
+E258V,Uncertain significance,uncertain
+D48G,Likely benign,benign
+Y327C,Uncertain significance,uncertain
+H178R,Uncertain significance,uncertain
+L43V,Uncertain significance,uncertain
+P64S,Uncertain significance,uncertain
+L145V,Conflicting classifications of pathogenicity,uncertain
+C182R,Uncertain significance,uncertain
+M237L,Uncertain significance,uncertain
+A355D,Uncertain significance,uncertain
+G356R,Conflicting classifications of pathogenicity,uncertain
+T155P,Conflicting classifications of pathogenicity,uncertain
+S260F,Uncertain significance,uncertain
+L265R,Uncertain significance,uncertain
+S366Y,Uncertain significance,uncertain
+D208A,Uncertain significance,uncertain
+P219T,Uncertain significance,uncertain
+L344R,Likely pathogenic,pathogenic
+Y163S,Uncertain significance,uncertain
+C277G,Likely pathogenic,pathogenic
+S149Y,Uncertain significance,uncertain
+N239I,Conflicting classifications of pathogenicity,uncertain
+G59A,Uncertain significance,uncertain
+L348S,Uncertain significance,uncertain
+Q167K,Uncertain significance,uncertain
+Y103S,Uncertain significance,uncertain
+G374D,Uncertain significance,uncertain
+T55P,Uncertain significance,uncertain
+P191L,Uncertain significance,uncertain
+D57G,Uncertain significance,uncertain
+D21E,Conflicting classifications of pathogenicity,uncertain
+S166A,Uncertain significance,uncertain
+K164Q,Uncertain significance,uncertain
+P152T,Uncertain significance,uncertain
+D148V,Uncertain significance,uncertain
+V143E,Uncertain significance,uncertain
+V143L,Uncertain significance,uncertain
+D184H,Uncertain significance,uncertain
+P153A,Uncertain significance,uncertain
+M133R,Uncertain significance,uncertain
+P128S,Uncertain significance,uncertain
+H168N,Uncertain significance,uncertain
+A347G,Likely benign,benign
+E298A,Uncertain significance,uncertain
+Q192E,Uncertain significance,uncertain
+K292N,Uncertain significance,uncertain
+L323V,Uncertain significance,uncertain
+S149P,Uncertain significance,uncertain
+T312A,Uncertain significance,uncertain
+T284R,Uncertain significance,uncertain
+L206W,Conflicting classifications of pathogenicity,uncertain
+P322R,Uncertain significance,uncertain
+D259A,Pathogenic,pathogenic
+F109I,Likely pathogenic,pathogenic
+P177A,Uncertain significance,uncertain
+T387P,Likely benign,benign
+D324N,Benign,benign
+E326V,Likely pathogenic,pathogenic
+S269C,Benign,benign
+P318S,Benign,benign
+S269I,Likely pathogenic,pathogenic
+S366F,Uncertain significance,uncertain
+Q165L,Pathogenic,pathogenic
+S240N,Pathogenic,pathogenic
+D228Y,Likely benign,benign
+D324E,Likely benign,benign
+E336Q,Likely benign,benign
+L350P,Uncertain significance,uncertain
+S313N,Likely benign,benign
+R209S,Conflicting classifications of pathogenicity,uncertain
+G117E,Uncertain significance,uncertain
+P4Q,Likely benign,benign
+N200Y,Uncertain significance,uncertain
+E171D,Pathogenic,pathogenic
+M133K,Uncertain significance,uncertain
+V173L,Conflicting classifications of pathogenicity,uncertain
+V73A,Uncertain significance,uncertain
+A189D,Uncertain significance,uncertain
+I254M,Uncertain significance,uncertain
+T55S,Uncertain significance,uncertain
+A353S,Uncertain significance,uncertain
+H380R,Uncertain significance,uncertain
+V225F,Uncertain significance,uncertain
+V122L,Uncertain significance,uncertain
+N288T,Uncertain significance,uncertain
+S269R,Uncertain significance,uncertain
+S9G,Uncertain significance,uncertain
+S392P,Uncertain significance,uncertain
+M44L,Uncertain significance,uncertain
+P318R,Uncertain significance,uncertain
+Q144R,Uncertain significance,uncertain
+S362R,Uncertain significance,uncertain
+L299P,Conflicting classifications of pathogenicity,uncertain
+G105A,Uncertain significance,uncertain
+G187V,Uncertain significance,uncertain
+A83T,Uncertain significance,uncertain
+L14Q,Conflicting classifications of pathogenicity,uncertain
+A39S,Uncertain significance,uncertain
+S215R,Conflicting classifications of pathogenicity,uncertain
+A161V,Uncertain significance,uncertain
+N200H,Uncertain significance,uncertain
+S366T,Uncertain significance,uncertain
+P75T,Uncertain significance,uncertain
+G356W,Uncertain significance,uncertain
+I162T,Uncertain significance,uncertain
+G361R,Uncertain significance,uncertain
+Q331E,Conflicting classifications of pathogenicity,uncertain
+A76V,Uncertain significance,uncertain
+H297Y,Uncertain significance,uncertain
+A159T,Conflicting classifications of pathogenicity,uncertain
+T102A,Uncertain significance,uncertain
+Q375H,Uncertain significance,uncertain
+Q375K,Likely benign,benign
+G374V,Conflicting classifications of pathogenicity,uncertain
+V97A,Uncertain significance,uncertain
+S95F,Uncertain significance,uncertain
+S94L,Likely benign,benign
+S37C,Uncertain significance,uncertain
+K370M,Uncertain significance,uncertain
+P87R,Uncertain significance,uncertain
+A86P,Conflicting classifications of pathogenicity,uncertain
+A84V,Conflicting classifications of pathogenicity,uncertain
+P8R,Likely benign,benign
+P80L,Uncertain significance,uncertain
+H365P,Uncertain significance,uncertain
+A74G,Conflicting classifications of pathogenicity,uncertain
+G360R,Uncertain significance,uncertain
+D7N,Uncertain significance,uncertain
+M66V,Likely benign,benign
+A355T,Likely benign,benign
+G59S,Uncertain significance,uncertain
+P58A,Likely benign,benign
+D352E,Conflicting classifications of pathogenicity,uncertain
+D57V,Likely benign,benign
+W53L,Conflicting classifications of pathogenicity,uncertain
+W53R,Uncertain significance,uncertain
+E349G,Likely benign,benign
+A347S,Uncertain significance,uncertain
+L344M,Uncertain significance,uncertain
+M44T,Uncertain significance,uncertain
+M44K,Uncertain significance,uncertain
+R342G,Uncertain significance,uncertain
+I332T,Uncertain significance,uncertain
+I332N,Likely pathogenic,pathogenic
+L32V,Likely benign,benign
+T312N,Likely benign,benign
+N310S,Likely benign,benign
+A307P,Uncertain significance,uncertain
+P300L,Likely benign,benign
+T284P,Conflicting classifications of pathogenicity,uncertain
+C277W,Uncertain significance,uncertain
+R267G,Pathogenic,pathogenic
+G262R,Uncertain significance,uncertain
+I254T,Pathogenic,pathogenic
+L252V,Conflicting classifications of pathogenicity,uncertain
+I251V,Uncertain significance,uncertain
+L25R,Uncertain significance,uncertain
+P250A,Uncertain significance,uncertain
+P250T,Uncertain significance,uncertain
+M246I,Likely pathogenic,pathogenic
+M243L,Uncertain significance,uncertain
+M237I,Pathogenic/Likely pathogenic,pathogenic
+V218E,Likely pathogenic,pathogenic
+S215C,Uncertain significance,uncertain
+D208N,Conflicting classifications of pathogenicity,uncertain
+E204V,Uncertain significance,uncertain
+L201M,Uncertain significance,uncertain
+E198G,Uncertain significance,uncertain
+S185R,Likely benign,benign
+E171G,Pathogenic,pathogenic
+H168Q,Uncertain significance,uncertain
+H168L,Pathogenic,pathogenic
+I162V,Uncertain significance,uncertain
+R156S,Uncertain significance,uncertain
+G154C,Uncertain significance,uncertain
+D393Y,Likely benign,benign
+W146C,Uncertain significance,uncertain
+E388Q,Likely benign,benign
+A129D,Benign,benign
+F385L,Likely benign,benign
+P13A,Conflicting classifications of pathogenicity,uncertain
+Y126H,Conflicting classifications of pathogenicity,uncertain
+T125A,Uncertain significance,uncertain
+A119D,Uncertain significance,uncertain
+K382I,Uncertain significance,uncertain
+L111V,Likely benign,benign
+G108V,Uncertain significance,uncertain
+P47A,Uncertain significance,uncertain
+P322A,Uncertain significance,uncertain
+N310I,Uncertain significance,uncertain
+P128R,Conflicting classifications of pathogenicity,uncertain
+P77A,Conflicting classifications of pathogenicity,uncertain
+Q38R,Uncertain significance,uncertain
+G356A,Uncertain significance,uncertain
+M66R,Uncertain significance,uncertain
+T312I,Uncertain significance,uncertain
+K139Q,Uncertain significance,uncertain
+L43F,Conflicting classifications of pathogenicity,uncertain
+T140S,Uncertain significance,uncertain
+E180D,Uncertain significance,uncertain
+F134S,Uncertain significance,uncertain
+I251F,Pathogenic/Likely pathogenic,pathogenic
+R156G,Conflicting classifications of pathogenicity,uncertain
+V157L,Uncertain significance,uncertain
+N30I,Uncertain significance,uncertain
+K370T,Conflicting classifications of pathogenicity,uncertain
+L330R,Uncertain significance,uncertain
+F134Y,Uncertain significance,uncertain
+D49E,Conflicting classifications of pathogenicity,uncertain
+P27A,Conflicting classifications of pathogenicity,uncertain
+S240R,Uncertain significance,uncertain
+T211I,Conflicting classifications of pathogenicity,uncertain
+K139R,Uncertain significance,uncertain
+E298Q,Conflicting classifications of pathogenicity,uncertain
+E294A,Uncertain significance,uncertain
+E224D,Uncertain significance,uncertain
+M384L,Uncertain significance,uncertain
+G59R,Uncertain significance,uncertain
+C182G,Uncertain significance,uncertain
+G108C,Conflicting classifications of pathogenicity,uncertain
+P4S,Uncertain significance,uncertain
+S371Y,Conflicting classifications of pathogenicity,uncertain
+G187A,Uncertain significance,uncertain
+D148E,Uncertain significance,uncertain
+P309L,Uncertain significance,uncertain
+D42N,Conflicting classifications of pathogenicity,uncertain
+F113I,Pathogenic/Likely pathogenic,pathogenic
+P301S,Uncertain significance,uncertain
+A355S,Uncertain significance,uncertain
+V122A,Uncertain significance,uncertain
+P98T,Uncertain significance,uncertain
+G117R,Uncertain significance,uncertain
+P222Q,Uncertain significance,uncertain
+T123S,Uncertain significance,uncertain
+P98R,Uncertain significance,uncertain
+L289I,Conflicting classifications of pathogenicity,uncertain
+G279V,Uncertain significance,uncertain
+F270L,Conflicting classifications of pathogenicity,uncertain
+D57A,Uncertain significance,uncertain
+T18S,Uncertain significance,uncertain
+A364T,Uncertain significance,uncertain
+C275G,Conflicting classifications of pathogenicity,uncertain
+L330H,Uncertain significance,uncertain
+I162N,Conflicting classifications of pathogenicity,uncertain
+A78V,Conflicting classifications of pathogenicity,uncertain
+D228N,Uncertain significance,uncertain
+F341I,Uncertain significance,uncertain
+E62A,Uncertain significance,uncertain
+H368R,Uncertain significance,uncertain
+V217L,Conflicting classifications of pathogenicity,uncertain
+S261G,Conflicting classifications of pathogenicity,uncertain
+A189G,Uncertain significance,uncertain
+A138G,Uncertain significance,uncertain
+G108D,Uncertain significance,uncertain
+T230I,Uncertain significance,uncertain
+D61Y,Uncertain significance,uncertain
+G293R,Uncertain significance,uncertain
+N263Y,Uncertain significance,uncertain
+A74S,Uncertain significance,uncertain
+K120R,Uncertain significance,uncertain
+E258D,Uncertain significance,uncertain
+V147D,Conflicting classifications of pathogenicity,uncertain
+D208Y,Conflicting classifications of pathogenicity,uncertain
+T150I,Conflicting classifications of pathogenicity,uncertain
+N268K,Conflicting classifications of pathogenicity,uncertain
+D259H,Uncertain significance,uncertain
+D61V,Conflicting classifications of pathogenicity,uncertain
+A88G,Uncertain significance,uncertain
+K139T,Uncertain significance,uncertain
+M1V,Uncertain significance,uncertain
+N187T,Uncertain significance,uncertain
+P301A,Uncertain significance,uncertain
+G112D,Uncertain significance,uncertain
+P250S,Uncertain significance,uncertain
+M66T,Uncertain significance,uncertain
+S362G,Uncertain significance,uncertain
+Q16K,Uncertain significance,uncertain
+L289P,Likely benign,benign
+P359R,Conflicting classifications of pathogenicity,uncertain
+A76T,Uncertain significance,uncertain
+R158S,Pathogenic,pathogenic
+N200D,Uncertain significance,uncertain
+K291Q,Uncertain significance,uncertain
+Q354E,Uncertain significance,uncertain
+K373M,Uncertain significance,uncertain
+K101E,Uncertain significance,uncertain
+P152Q,Uncertain significance,uncertain
+R174S,Uncertain significance,uncertain
+N131S,Uncertain significance,uncertain
+R342L,Uncertain significance,uncertain
+G117A,Uncertain significance,uncertain
+Y126S,Uncertain significance,uncertain
+F109Y,Uncertain significance,uncertain
+H214Y,Uncertain significance,uncertain
+L252F,Uncertain significance,uncertain
+A138T,Uncertain significance,uncertain
+G302R,Conflicting classifications of pathogenicity,uncertain
+A355G,Conflicting classifications of pathogenicity,uncertain
+S33T,Uncertain significance,uncertain
+P98A,Uncertain significance,uncertain
+S240I,Uncertain significance,uncertain
+Q192P,Uncertain significance,uncertain
+D208V,Conflicting classifications of pathogenicity,uncertain
+A39T,Uncertain significance,uncertain
+L145R,Conflicting classifications of pathogenicity,uncertain
+C229G,Uncertain significance,uncertain
+D393E,Conflicting classifications of pathogenicity,uncertain
+V97I,Uncertain significance,uncertain
+A159D,Pathogenic/Likely pathogenic,pathogenic
+N288D,Uncertain significance,uncertain
+L330F,Uncertain significance,uncertain
+S303R,Conflicting classifications of pathogenicity,uncertain
+P191S,Uncertain significance,uncertain
+P190A,Uncertain significance,uncertain
+K292T,Conflicting classifications of pathogenicity,uncertain
+P82S,Conflicting classifications of pathogenicity,uncertain
+C124S,Uncertain significance,uncertain
+T304I,Uncertain significance,uncertain
+R337S,Likely pathogenic,pathogenic
+T211S,Uncertain significance,uncertain
+F134L,Uncertain significance,uncertain
+S15R,Uncertain significance,uncertain
+E343Q,Conflicting classifications of pathogenicity,uncertain
+G199R,Uncertain significance,uncertain
+L114V,Uncertain significance,uncertain
+S315F,Uncertain significance,uncertain
+K292E,Conflicting classifications of pathogenicity,uncertain
+T155I,Conflicting classifications of pathogenicity,uncertain
+L137V,Uncertain significance,uncertain
+E294K,Conflicting classifications of pathogenicity,uncertain
+Q192H,Likely benign,benign
+R280S,Pathogenic,pathogenic
+F134V,Conflicting classifications of pathogenicity,uncertain
+K381E,Uncertain significance,uncertain
+T377P,Conflicting classifications of pathogenicity,uncertain
+V10F,Conflicting classifications of pathogenicity,uncertain
+T284A,Conflicting classifications of pathogenicity,uncertain
+R174W,Uncertain significance,uncertain
+R209K,Likely benign,benign
+C275S,Uncertain significance,uncertain
+E339V,Conflicting classifications of pathogenicity,uncertain
+S241T,Pathogenic/Likely pathogenic,pathogenic
+L344V,Uncertain significance,uncertain
+P177H,Uncertain significance,uncertain
+D228E,Uncertain significance,uncertain
+E285Q,Uncertain significance,uncertain
+T230A,Uncertain significance,uncertain
+L265Q,Pathogenic/Likely pathogenic,pathogenic
+P219R,Uncertain significance,uncertain
+G334E,Uncertain significance,uncertain
+G226A,Uncertain significance,uncertain
+D61G,Conflicting classifications of pathogenicity,uncertain
+E204G,Uncertain significance,uncertain
+A119G,Conflicting classifications of pathogenicity,uncertain
+I162F,Conflicting classifications of pathogenicity,uncertain
+H178Q,Pathogenic/Likely pathogenic,pathogenic
+P58T,Conflicting classifications of pathogenicity,uncertain
+Q104L,Conflicting classifications of pathogenicity,uncertain
+R363S,Uncertain significance,uncertain
+P87L,Conflicting classifications of pathogenicity,uncertain
+Q38P,Uncertain significance,uncertain
+T329A,Conflicting classifications of pathogenicity,uncertain
+P34S,Conflicting classifications of pathogenicity,uncertain
+S127P,Likely pathogenic,pathogenic
+L188V,Uncertain significance,uncertain
+M44R,Uncertain significance,uncertain
+E298G,Uncertain significance,uncertain
+S366C,Uncertain significance,uncertain
+S315C,Uncertain significance,uncertain
+E2G,Uncertain significance,uncertain
+H297Q,Uncertain significance,uncertain
+E287D,Conflicting classifications of pathogenicity,uncertain
+N200S,Uncertain significance,uncertain
+L26I,Uncertain significance,uncertain
+P85S,Uncertain significance,uncertain
+T231S,Uncertain significance,uncertain
+E285G,Uncertain significance,uncertain
+D207H,Uncertain significance,uncertain
+N235D,Conflicting classifications of pathogenicity,uncertain
+A69P,Uncertain significance,uncertain
+M169I,Uncertain significance,uncertain
+H368N,Uncertain significance,uncertain
+K120M,Uncertain significance,uncertain
+V157G,Pathogenic/Likely pathogenic,pathogenic
+P72L,Conflicting classifications of pathogenicity,uncertain
+P142L,Conflicting classifications of pathogenicity,uncertain
+D41G,Conflicting classifications of pathogenicity,uncertain
+T231A,Uncertain significance,uncertain
+E3Q,Uncertain significance,uncertain
+K382T,Uncertain significance,uncertain
+E271D,Uncertain significance,uncertain
+E62K,Conflicting classifications of pathogenicity,uncertain
+T256I,Uncertain significance,uncertain
+S367T,Uncertain significance,uncertain
+E3K,Conflicting classifications of pathogenicity,uncertain
+I254N,Pathogenic,pathogenic
+R158G,Pathogenic,pathogenic
+Q317L,Uncertain significance,uncertain
+S121P,Uncertain significance,uncertain
+L350V,Conflicting classifications of pathogenicity,uncertain
+P191H,Uncertain significance,uncertain
+R267L,Uncertain significance,uncertain
+V225D,Conflicting classifications of pathogenicity,uncertain
+E51K,Uncertain significance,uncertain
+I232N,Pathogenic/Likely pathogenic,pathogenic
+A364S,Conflicting classifications of pathogenicity,uncertain
+A78S,Uncertain significance,uncertain
+S314C,Uncertain significance,uncertain
+W91R,Uncertain significance,uncertain
+M169V,Uncertain significance,uncertain
+V147A,Uncertain significance,uncertain
+N29T,Uncertain significance,uncertain
+R335P,Uncertain significance,uncertain
+G187S,Conflicting classifications of pathogenicity,uncertain
+E349K,Uncertain significance,uncertain
+T253I,Conflicting classifications of pathogenicity,uncertain
+G117V,Uncertain significance,uncertain
+P75L,Uncertain significance,uncertain
+V172D,Conflicting classifications of pathogenicity,uncertain
+L111M,Uncertain significance,uncertain
+P67S,Uncertain significance,uncertain
+Q16R,Conflicting classifications of pathogenicity,uncertain
+A276T,Uncertain significance,uncertain
+N268Y,Uncertain significance,uncertain
+N263S,Likely benign,benign
+L257V,Conflicting classifications of pathogenicity,uncertain
+T253A,Pathogenic/Likely pathogenic,pathogenic
+E224G,Uncertain significance,uncertain
+P219L,Uncertain significance,uncertain
+D208H,Uncertain significance,uncertain
+R202P,Uncertain significance,uncertain
+S20L,Uncertain significance,uncertain
+V197G,Uncertain significance,uncertain
+H193Q,Conflicting classifications of pathogenicity,uncertain
+R181P,Pathogenic/Likely pathogenic,pathogenic
+V172I,Uncertain significance,uncertain
+P152R,Pathogenic/Likely pathogenic,pathogenic
+P142S,Uncertain significance,uncertain
+L130H,Pathogenic,pathogenic
+A129S,Conflicting classifications of pathogenicity,uncertain
+P128L,Uncertain significance,uncertain
+S127T,Likely pathogenic,pathogenic
+F113S,Conflicting classifications of pathogenicity,uncertain
+Q331K,Uncertain significance,uncertain
+R110G,Likely pathogenic,pathogenic
+L323P,Uncertain significance,uncertain
+P316S,Conflicting classifications of pathogenicity,uncertain
+L289F,Conflicting classifications of pathogenicity,uncertain
+N29D,Likely benign,benign
+V10G,Conflicting classifications of pathogenicity,uncertain
+P98S,Uncertain significance,uncertain
+T377I,Conflicting classifications of pathogenicity,uncertain
+K351N,Uncertain significance,uncertain
+E339G,Conflicting classifications of pathogenicity,uncertain
+S9R,Uncertain significance,uncertain
+P89T,Conflicting classifications of pathogenicity,uncertain
+R65G,Conflicting classifications of pathogenicity,uncertain
+P60L,Conflicting classifications of pathogenicity,uncertain
+G59D,Likely benign,benign
+P47R,Conflicting classifications of pathogenicity,uncertain
+D393H,Conflicting classifications of pathogenicity,uncertain
+P390T,Uncertain significance,uncertain
+K386R,Conflicting classifications of pathogenicity,uncertain
+P36L,Conflicting classifications of pathogenicity,uncertain
+P34L,Uncertain significance,uncertain
+M340K,Uncertain significance,uncertain
+V143A,Pathogenic,pathogenic
+A307V,Conflicting classifications of pathogenicity,uncertain
+G374C,Conflicting classifications of pathogenicity,uncertain
+P8T,Conflicting classifications of pathogenicity,uncertain
+P27R,Uncertain significance,uncertain
+P12R,Conflicting classifications of pathogenicity,uncertain
+L43M,Uncertain significance,uncertain
+A347T,Uncertain significance,uncertain
+L45V,Conflicting classifications of pathogenicity,uncertain
+S46Y,Uncertain significance,uncertain
+I254S,Conflicting classifications of pathogenicity,uncertain
+K139E,Uncertain significance,uncertain
+E349Q,Conflicting classifications of pathogenicity,uncertain
+H368Q,Conflicting classifications of pathogenicity,uncertain
+S127Y,Pathogenic,pathogenic
+C277S,Uncertain significance,uncertain
+A79G,Uncertain significance,uncertain
+A86V,Conflicting classifications of pathogenicity,uncertain
+Q167R,Uncertain significance,uncertain
+T329I,Conflicting classifications of pathogenicity,uncertain
+G154V,Conflicting classifications of pathogenicity,uncertain
+L330P,Uncertain significance,uncertain
+N310D,Conflicting classifications of pathogenicity,uncertain
+S33F,Conflicting classifications of pathogenicity,uncertain
+K101Q,Uncertain significance,uncertain
+S116A,Conflicting classifications of pathogenicity,uncertain
+F328S,Uncertain significance,uncertain
+G226S,Uncertain significance,uncertain
+C242S,Conflicting classifications of pathogenicity,uncertain
+E346K,Conflicting classifications of pathogenicity,uncertain
+P190S,Uncertain significance,uncertain
+P177S,Uncertain significance,uncertain
+P153L,Uncertain significance,uncertain
+V203E,Uncertain significance,uncertain
+T140A,Uncertain significance,uncertain
+M40V,Conflicting classifications of pathogenicity,uncertain
+H214P,Uncertain significance,uncertain
+Q16H,Uncertain significance,uncertain
+Y107D,Conflicting classifications of pathogenicity,uncertain
+L264I,Uncertain significance,uncertain
+M384I,Conflicting classifications of pathogenicity,uncertain
+N29K,Uncertain significance,uncertain
+G187R,Conflicting classifications of pathogenicity,uncertain
+F109C,Likely pathogenic,pathogenic
+K132N,Pathogenic/Likely pathogenic,pathogenic
+R156P,Pathogenic/Likely pathogenic,pathogenic
+V197E,Uncertain significance,uncertain
+I232S,Pathogenic,pathogenic
+G105V,Conflicting classifications of pathogenicity,uncertain
+F113C,Pathogenic,pathogenic
+R273G,Pathogenic/Likely pathogenic,pathogenic
+D259Y,Uncertain significance,uncertain
+R290L,Uncertain significance,uncertain
+D324Y,Uncertain significance,uncertain
+A70V,Uncertain significance,uncertain
+K291N,Conflicting classifications of pathogenicity,uncertain
+Q354R,Conflicting classifications of pathogenicity,uncertain
+S106I,Conflicting classifications of pathogenicity,uncertain
+A88P,Uncertain significance,uncertain
+R290G,Conflicting classifications of pathogenicity,uncertain
+P34R,Conflicting classifications of pathogenicity,uncertain
+F338C,Uncertain significance,uncertain
+R209G,Conflicting classifications of pathogenicity,uncertain
+L383F,Conflicting classifications of pathogenicity,uncertain
+D208G,Uncertain significance,uncertain
+S240G,Pathogenic/Likely pathogenic,pathogenic
+K357E,Uncertain significance,uncertain
+T81I,Conflicting classifications of pathogenicity,uncertain
+C229S,Conflicting classifications of pathogenicity,uncertain
+G199E,Uncertain significance,uncertain
+T102S,Conflicting classifications of pathogenicity,uncertain
+Q317R,Conflicting classifications of pathogenicity,uncertain
+Q136P,Conflicting classifications of pathogenicity,uncertain
+R283G,Uncertain significance,uncertain
+S99F,Uncertain significance,uncertain
+P12H,Uncertain significance,uncertain
+E51G,Uncertain significance,uncertain
+K373R,Conflicting classifications of pathogenicity,uncertain
+P71A,Conflicting classifications of pathogenicity,uncertain
+L14V,Conflicting classifications of pathogenicity,uncertain
+A69T,Conflicting classifications of pathogenicity,uncertain
+V272L,Pathogenic,pathogenic
+E221A,Uncertain significance,uncertain
+P71S,Conflicting classifications of pathogenicity,uncertain
+A39V,Conflicting classifications of pathogenicity,uncertain
+T377A,Uncertain significance,uncertain
+A364V,Uncertain significance,uncertain
+M169R,Uncertain significance,uncertain
+D148N,Uncertain significance,uncertain
+S37F,Conflicting classifications of pathogenicity,uncertain
+S99C,Uncertain significance,uncertain
+V272A,Uncertain significance,uncertain
+P316L,Conflicting classifications of pathogenicity,uncertain
+P27S,Uncertain significance,uncertain
+A138D,Uncertain significance,uncertain
+T256P,Conflicting classifications of pathogenicity,uncertain
+S90F,Uncertain significance,uncertain
+P77S,Conflicting classifications of pathogenicity,uncertain
+P67Q,Uncertain significance,uncertain
+A189S,Uncertain significance,uncertain
+A69V,Conflicting classifications of pathogenicity,uncertain
+P12L,Conflicting classifications of pathogenicity,uncertain
+V147I,Uncertain significance,uncertain
+I251N,Conflicting classifications of pathogenicity,uncertain
+S366P,Uncertain significance,uncertain
+N263H,Uncertain significance,uncertain
+V218G,Conflicting classifications of pathogenicity,uncertain
+R158L,Pathogenic,pathogenic
+M133V,Uncertain significance,uncertain
+V172A,Uncertain significance,uncertain
+A355V,Conflicting classifications of pathogenicity,uncertain
+N311H,Conflicting classifications of pathogenicity,uncertain
+S166L,Uncertain significance,uncertain
+P98L,Conflicting classifications of pathogenicity,uncertain
+T211P,Conflicting classifications of pathogenicity,uncertain
+T253N,Uncertain significance,uncertain
+L289V,Conflicting classifications of pathogenicity,uncertain
+S106R,Pathogenic,pathogenic
+P318L,Conflicting classifications of pathogenicity,uncertain
+G112S,Conflicting classifications of pathogenicity,uncertain
+D393N,Conflicting classifications of pathogenicity,uncertain
+S376F,Uncertain significance,uncertain
+T170R,Uncertain significance,uncertain
+Q167P,Uncertain significance,uncertain
+E2K,Conflicting classifications of pathogenicity,uncertain
+E68Q,Uncertain significance,uncertain
+S149F,Uncertain significance,uncertain
+V143G,Pathogenic/Likely pathogenic,pathogenic
+R283P,Pathogenic,pathogenic
+T387R,Conflicting classifications of pathogenicity,uncertain
+D7E,Likely benign,benign
+S362I,Conflicting classifications of pathogenicity,uncertain
+N263K,Uncertain significance,uncertain
+I251M,Uncertain significance,uncertain
+A78T,Uncertain significance,uncertain
+C275W,Conflicting classifications of pathogenicity,uncertain
+D41N,Conflicting classifications of pathogenicity,uncertain
+C238S,Conflicting classifications of pathogenicity,uncertain
+D259V,Conflicting classifications of pathogenicity,uncertain
+D148A,Conflicting classifications of pathogenicity,uncertain
+H178P,Conflicting classifications of pathogenicity,uncertain
+P13R,Conflicting classifications of pathogenicity,uncertain
+A307G,Likely benign,benign
+P72S,Conflicting classifications of pathogenicity,uncertain
+V203L,Uncertain significance,uncertain
+Q165K,Conflicting classifications of pathogenicity,uncertain
+V157D,Conflicting classifications of pathogenicity,uncertain
+P152S,Conflicting classifications of pathogenicity,uncertain
+G154R,Uncertain significance,uncertain
+F338L,Conflicting classifications of pathogenicity,uncertain
+H178D,Pathogenic,pathogenic
+P177T,Uncertain significance,uncertain
+A129T,Conflicting classifications of pathogenicity,uncertain
+P82A,Conflicting classifications of pathogenicity,uncertain
+I232L,Conflicting classifications of pathogenicity,uncertain
+Q136H,Uncertain significance,uncertain
+S33Y,Conflicting classifications of pathogenicity,uncertain
+P27L,Conflicting classifications of pathogenicity,uncertain
+D352Y,Conflicting classifications of pathogenicity,uncertain
+F54L,Conflicting classifications of pathogenicity,uncertain
+A119P,Uncertain significance,uncertain
+M237T,Uncertain significance,uncertain
+P301L,Conflicting classifications of pathogenicity,uncertain
+L350F,Conflicting classifications of pathogenicity,uncertain
+F134I,Conflicting classifications of pathogenicity,uncertain
+G325E,Conflicting classifications of pathogenicity,uncertain
+K291E,Conflicting classifications of pathogenicity,uncertain
+E224K,Uncertain significance,uncertain
+V197L,Uncertain significance,uncertain
+M246K,Likely pathogenic,pathogenic
+L145Q,Conflicting classifications of pathogenicity,uncertain
+L264P,Uncertain significance,uncertain
+E346D,Conflicting classifications of pathogenicity,uncertain
+G360W,Uncertain significance,uncertain
+Q136E,Conflicting classifications of pathogenicity,uncertain
+S378C,Conflicting classifications of pathogenicity,uncertain
+M66I,Conflicting classifications of pathogenicity,uncertain
+P128T,Conflicting classifications of pathogenicity,uncertain
+H115N,Conflicting classifications of pathogenicity,uncertain
+G325R,Conflicting classifications of pathogenicity,uncertain
+R335H,Conflicting classifications of pathogenicity,uncertain
+T123I,Uncertain significance,uncertain
+V225I,Conflicting classifications of pathogenicity,uncertain
+S183L,Conflicting classifications of pathogenicity,uncertain
+A88V,Conflicting classifications of pathogenicity,uncertain
+P92L,Conflicting classifications of pathogenicity,uncertain
+I332M,Uncertain significance,uncertain
+P309S,Conflicting classifications of pathogenicity,uncertain
+R306Q,Conflicting classifications of pathogenicity,uncertain
+R290P,Uncertain significance,uncertain
+T284S,Conflicting classifications of pathogenicity,uncertain
+G279R,Conflicting classifications of pathogenicity,uncertain
+C277F,Conflicting classifications of pathogenicity,uncertain
+G266R,Pathogenic,pathogenic
+E258A,Uncertain significance,uncertain
+L257P,Conflicting classifications of pathogenicity,uncertain
+G244A,Pathogenic/Likely pathogenic,pathogenic
+T231I,Uncertain significance,uncertain
+G226V,Conflicting classifications of pathogenicity,uncertain
+P177R,Pathogenic/Likely pathogenic,pathogenic
+A159V,Pathogenic/Likely pathogenic,pathogenic
+T155A,Conflicting classifications of pathogenicity,uncertain
+L130V,Conflicting classifications of pathogenicity,uncertain
+A129G,Uncertain significance,uncertain
+Y126C,Conflicting classifications of pathogenicity,uncertain
+L114S,Conflicting classifications of pathogenicity,uncertain
+G108R,Uncertain significance,uncertain
+V97F,Conflicting classifications of pathogenicity,uncertain
+S9N,Conflicting classifications of pathogenicity,uncertain
+P82R,Uncertain significance,uncertain
+P77T,Conflicting classifications of pathogenicity,uncertain
+G389R,Conflicting classifications of pathogenicity,uncertain
+M384R,Uncertain significance,uncertain
+S362N,Conflicting classifications of pathogenicity,uncertain
+S362C,Conflicting classifications of pathogenicity,uncertain
+K351R,Uncertain significance,uncertain
+G199V,Likely pathogenic,pathogenic
+C242R,Conflicting classifications of pathogenicity,uncertain
+M160V,Conflicting classifications of pathogenicity,uncertain
+I251T,Conflicting classifications of pathogenicity,uncertain
+L206S,Conflicting classifications of pathogenicity,uncertain
+K372T,Uncertain significance,uncertain
+V172F,Conflicting classifications of pathogenicity,uncertain
+N131I,Pathogenic/Likely pathogenic,pathogenic
+A276P,Conflicting classifications of pathogenicity,uncertain
+E224A,Uncertain significance,uncertain
+G262V,Conflicting classifications of pathogenicity,uncertain
+V157A,Conflicting classifications of pathogenicity,uncertain
+M246T,Conflicting classifications of pathogenicity,uncertain
+G105S,Pathogenic/Likely pathogenic,pathogenic
+V172G,Uncertain significance,uncertain
+N310K,Likely benign,benign
+G334W,Likely pathogenic,pathogenic
+L130P,Pathogenic,pathogenic
+Y126N,Conflicting classifications of pathogenicity,uncertain
+R267P,Pathogenic,pathogenic
+H168R,Conflicting classifications of pathogenicity,uncertain
+D148Y,Conflicting classifications of pathogenicity,uncertain
+P295S,Likely benign,benign
+F109S,Uncertain significance,uncertain
+R174K,Conflicting classifications of pathogenicity,uncertain
+F338S,Uncertain significance,uncertain
+K120Q,Uncertain significance,uncertain
+C182W,Uncertain significance,uncertain
+A347V,Uncertain significance,uncertain
+P153S,Conflicting classifications of pathogenicity,uncertain
+G187D,Uncertain significance,uncertain
+F212I,Uncertain significance,uncertain
+A161D,Conflicting classifications of pathogenicity,uncertain
+C277R,Uncertain significance,uncertain
+H178N,Uncertain significance,uncertain
+M133I,Conflicting classifications of pathogenicity,uncertain
+Q331R,Conflicting classifications of pathogenicity,uncertain
+P295L,Conflicting classifications of pathogenicity,uncertain
+D324H,Conflicting classifications of pathogenicity,uncertain
+C229R,Conflicting classifications of pathogenicity,uncertain
+P250L,Pathogenic/Likely pathogenic,pathogenic
+E285K,Pathogenic/Likely pathogenic,pathogenic
+T118I,Likely benign,benign
+M237R,Uncertain significance,uncertain
+G279E,Conflicting classifications of pathogenicity,uncertain
+C229Y,Conflicting classifications of pathogenicity,uncertain
+E11K,Conflicting classifications of pathogenicity,uncertain
+P190L,Likely pathogenic,pathogenic
+L35M,Conflicting classifications of pathogenicity,uncertain
+P47T,Conflicting classifications of pathogenicity,uncertain
+R65T,Uncertain significance,uncertain
+D184G,Uncertain significance,uncertain
+I254V,Likely benign,benign
+P13S,Uncertain significance,uncertain
+D186N,Likely benign,benign
+P27T,Conflicting classifications of pathogenicity,uncertain
+R249S,Conflicting classifications of pathogenicity,uncertain
+R110L,Pathogenic,pathogenic
+V216L,Conflicting classifications of pathogenicity,uncertain
+N247S,Conflicting classifications of pathogenicity,uncertain
+P80S,Uncertain significance,uncertain
+P222S,Conflicting classifications of pathogenicity,uncertain
+G302E,Conflicting classifications of pathogenicity,uncertain
+E258G,Conflicting classifications of pathogenicity,uncertain
+N311S,Conflicting classifications of pathogenicity,uncertain
+N210Y,Uncertain significance,uncertain
+S314F,Conflicting classifications of pathogenicity,uncertain
+M246L,Uncertain significance,uncertain
+Q317H,Conflicting classifications of pathogenicity,uncertain
+P177L,Conflicting classifications of pathogenicity,uncertain
+P4R,Conflicting classifications of pathogenicity,uncertain
+T211A,Uncertain significance,uncertain
+H179Q,Pathogenic,pathogenic
+K292R,Likely benign,benign
+M384T,Benign,benign
+G105R,Pathogenic/Likely pathogenic,pathogenic
+Y107N,Uncertain significance,uncertain
+L348V,Uncertain significance,uncertain
+D281E,Pathogenic/Likely pathogenic,pathogenic
+M243V,Conflicting classifications of pathogenicity,uncertain
+E271K,Conflicting classifications of pathogenicity,uncertain
+M44I,Conflicting classifications of pathogenicity,uncertain
+T155N,Pathogenic/Likely pathogenic,pathogenic
+F109V,Conflicting classifications of pathogenicity,uncertain
+Y236N,Conflicting classifications of pathogenicity,uncertain
+Y236C,Pathogenic/Likely pathogenic,pathogenic
+Y234N,Pathogenic/Likely pathogenic,pathogenic
+Y234H,Pathogenic/Likely pathogenic,pathogenic
+Y234S,Conflicting classifications of pathogenicity,uncertain
+Y220D,Conflicting classifications of pathogenicity,uncertain
+Y220N,Conflicting classifications of pathogenicity,uncertain
+Y220H,Pathogenic/Likely pathogenic,pathogenic
+Y205D,Pathogenic/Likely pathogenic,pathogenic
+Y205H,Pathogenic/Likely pathogenic,pathogenic
+Y205N,Conflicting classifications of pathogenicity,uncertain
+Y205C,Pathogenic,pathogenic
+Y163H,Pathogenic,pathogenic
+Y163N,Conflicting classifications of pathogenicity,uncertain
+V274L,Conflicting classifications of pathogenicity,uncertain
+V274A,Conflicting classifications of pathogenicity,uncertain
+V274G,Conflicting classifications of pathogenicity,uncertain
+V274D,Conflicting classifications of pathogenicity,uncertain
+V274F,Conflicting classifications of pathogenicity,uncertain
+V272E,Conflicting classifications of pathogenicity,uncertain
+V216E,Uncertain significance,uncertain
+V216G,Conflicting classifications of pathogenicity,uncertain
+V173E,Conflicting classifications of pathogenicity,uncertain
+T125R,Pathogenic/Likely pathogenic,pathogenic
+T125P,Conflicting classifications of pathogenicity,uncertain
+S241A,Pathogenic/Likely pathogenic,pathogenic
+S241P,Uncertain significance,uncertain
+S241Y,Pathogenic/Likely pathogenic,pathogenic
+S215N,Conflicting classifications of pathogenicity,uncertain
+S215I,Conflicting classifications of pathogenicity,uncertain
+R282P,Pathogenic/Likely pathogenic,pathogenic
+R280G,Conflicting classifications of pathogenicity,uncertain
+R280K,Conflicting classifications of pathogenicity,uncertain
+R273S,Pathogenic,pathogenic
+R273L,Pathogenic,pathogenic
+R249G,Conflicting classifications of pathogenicity,uncertain
+R249M,Conflicting classifications of pathogenicity,uncertain
+R248G,Pathogenic/Likely pathogenic,pathogenic
+R213G,Conflicting classifications of pathogenicity,uncertain
+R213L,Conflicting classifications of pathogenicity,uncertain
+R175G,Pathogenic,pathogenic
+Q144H,Uncertain significance,uncertain
+Q144L,Uncertain significance,uncertain
+P278H,Conflicting classifications of pathogenicity,uncertain
+P278A,Conflicting classifications of pathogenicity,uncertain
+P278R,Conflicting classifications of pathogenicity,uncertain
+P278T,Pathogenic/Likely pathogenic,pathogenic
+P278S,Pathogenic/Likely pathogenic,pathogenic
+P151A,Pathogenic,pathogenic
+P151R,Pathogenic/Likely pathogenic,pathogenic
+P151H,Uncertain significance,uncertain
+N239T,Conflicting classifications of pathogenicity,uncertain
+N239S,Pathogenic/Likely pathogenic,pathogenic
+M237K,Pathogenic/Likely pathogenic,pathogenic
+L194P,Uncertain significance,uncertain
+L194H,Conflicting classifications of pathogenicity,uncertain
+L194R,Pathogenic,pathogenic
+L111Q,Pathogenic,pathogenic
+L111R,Pathogenic,pathogenic
+L111P,Pathogenic,pathogenic
+K132M,Conflicting classifications of pathogenicity,uncertain
+K132Q,Conflicting classifications of pathogenicity,uncertain
+K132T,Conflicting classifications of pathogenicity,uncertain
+K132E,Conflicting classifications of pathogenicity,uncertain
+K132R,Pathogenic/Likely pathogenic,pathogenic
+I255T,Uncertain significance,uncertain
+I255S,Uncertain significance,uncertain
+I255F,Conflicting classifications of pathogenicity,uncertain
+I195M,Uncertain significance,uncertain
+I195S,Conflicting classifications of pathogenicity,uncertain
+I195N,Conflicting classifications of pathogenicity,uncertain
+I195F,Conflicting classifications of pathogenicity,uncertain
+H214L,Likely pathogenic,pathogenic
+H214R,Pathogenic,pathogenic
+H193D,Conflicting classifications of pathogenicity,uncertain
+H193P,Pathogenic,pathogenic
+H179P,Conflicting classifications of pathogenicity,uncertain
+H179D,Pathogenic/Likely pathogenic,pathogenic
+H179N,Conflicting classifications of pathogenicity,uncertain
+H179L,Conflicting classifications of pathogenicity,uncertain
+H179R,Pathogenic/Likely pathogenic,pathogenic
+G245R,Conflicting classifications of pathogenicity,uncertain
+G245V,Pathogenic,pathogenic
+G244V,Likely pathogenic,pathogenic
+G244S,Pathogenic,pathogenic
+G244C,Conflicting classifications of pathogenicity,uncertain
+F270V,Pathogenic,pathogenic
+F270C,Conflicting classifications of pathogenicity,uncertain
+F270I,Conflicting classifications of pathogenicity,uncertain
+F270S,Pathogenic/Likely pathogenic,pathogenic
+E286A,Likely pathogenic,pathogenic
+E286V,Conflicting classifications of pathogenicity,uncertain
+E286Q,Conflicting classifications of pathogenicity,uncertain
+E286G,Conflicting classifications of pathogenicity,uncertain
+D281A,Pathogenic/Likely pathogenic,pathogenic
+D281H,Pathogenic/Likely pathogenic,pathogenic
+D281N,Pathogenic/Likely pathogenic,pathogenic
+D281Y,Pathogenic/Likely pathogenic,pathogenic
+C275R,Conflicting classifications of pathogenicity,uncertain
+C275F,Pathogenic,pathogenic
+C242G,Conflicting classifications of pathogenicity,uncertain
+C242W,Pathogenic,pathogenic
+C242F,Conflicting classifications of pathogenicity,uncertain
+C238G,Pathogenic/Likely pathogenic,pathogenic
+C238R,Pathogenic/Likely pathogenic,pathogenic
+C238F,Pathogenic/Likely pathogenic,pathogenic
+C176R,Conflicting classifications of pathogenicity,uncertain
+C176W,Conflicting classifications of pathogenicity,uncertain
+C176G,Conflicting classifications of pathogenicity,uncertain
+C176S,Conflicting classifications of pathogenicity,uncertain
+C176F,Pathogenic/Likely pathogenic,pathogenic
+C141F,Conflicting classifications of pathogenicity,uncertain
+C141R,Conflicting classifications of pathogenicity,uncertain
+C141W,Pathogenic,pathogenic
+C135G,Pathogenic,pathogenic
+C135W,Conflicting classifications of pathogenicity,uncertain
+C135R,Pathogenic/Likely pathogenic,pathogenic
+C135F,Pathogenic/Likely pathogenic,pathogenic
+V173A,Pathogenic/Likely pathogenic,pathogenic
+V173G,Conflicting classifications of pathogenicity,uncertain
+R249T,Pathogenic/Likely pathogenic,pathogenic
+G244D,Pathogenic/Likely pathogenic,pathogenic
+V63M,Uncertain significance,uncertain
+G245A,Conflicting classifications of pathogenicity,uncertain
+S215G,Conflicting classifications of pathogenicity,uncertain
+Y126D,Pathogenic/Likely pathogenic,pathogenic
+N131K,Uncertain significance,uncertain
+K164E,Pathogenic,pathogenic
+H233R,Conflicting classifications of pathogenicity,uncertain
+R379H,Likely benign,benign
+R158P,Pathogenic,pathogenic
+L45P,Conflicting classifications of pathogenicity,uncertain
+R175C,Uncertain significance,uncertain
+L265P,Pathogenic/Likely pathogenic,pathogenic
+E180K,Likely pathogenic,pathogenic
+P219S,Conflicting classifications of pathogenicity,uncertain
+R282Q,Conflicting classifications of pathogenicity,uncertain
+R248P,Pathogenic/Likely pathogenic,pathogenic
+V218M,Conflicting classifications of pathogenicity,uncertain
+G154D,Uncertain significance,uncertain
+P13L,Conflicting classifications of pathogenicity,uncertain
+K101N,Uncertain significance,uncertain
+P71R,Uncertain significance,uncertain
+Q52R,Uncertain significance,uncertain
+P4L,Likely benign,benign
+R337G,Likely pathogenic,pathogenic
+P223L,Uncertain significance,uncertain
+P190R,Conflicting classifications of pathogenicity,uncertain
+N239D,Conflicting classifications of pathogenicity,uncertain
+V173M,Pathogenic,pathogenic
+V31F,Uncertain significance,uncertain
+R110P,Pathogenic,pathogenic
+V272G,Conflicting classifications of pathogenicity,uncertain
+G266V,Conflicting classifications of pathogenicity,uncertain
+Q5R,Conflicting classifications of pathogenicity,uncertain
+R363K,Uncertain significance,uncertain
+P190T,Uncertain significance,uncertain
+R342Q,Likely benign,benign
+P72T,Conflicting classifications of pathogenicity,uncertain
+A276D,Conflicting classifications of pathogenicity,uncertain
+S20P,Uncertain significance,uncertain
+P278L,Pathogenic,pathogenic
+R196G,Conflicting classifications of pathogenicity,uncertain
+I255N,Conflicting classifications of pathogenicity,uncertain
+S46P,Uncertain significance,uncertain
+H297R,Uncertain significance,uncertain
+S367G,Uncertain significance,uncertain
+P8L,Likely benign,benign
+R202G,Conflicting classifications of pathogenicity,uncertain
+P322T,Uncertain significance,uncertain
+Q354K,Benign,benign
+V10L,Likely benign,benign
+R213P,Pathogenic/Likely pathogenic,pathogenic
+R196P,Pathogenic/Likely pathogenic,pathogenic
+D49G,Conflicting classifications of pathogenicity,uncertain
+R273P,Pathogenic/Likely pathogenic,pathogenic
+S260Y,Likely benign,benign
+A63T,Likely benign,benign
+Q317K,Benign,benign
+K372R,Conflicting classifications of pathogenicity,uncertain
+R181S,Uncertain significance,uncertain
+M160I,Likely benign,benign
+S303N,Conflicting classifications of pathogenicity,uncertain
+C124G,Uncertain significance,uncertain
+E358V,Conflicting classifications of pathogenicity,uncertain
+F134C,Likely pathogenic,pathogenic
+P316T,Likely benign,benign
+A78G,Conflicting classifications of pathogenicity,uncertain
+G360E,Conflicting classifications of pathogenicity,uncertain
+G374R,Benign,benign
+H193Y,Pathogenic/Likely pathogenic,pathogenic
+H214N,Uncertain significance,uncertain
+R248L,Pathogenic,pathogenic
+A69G,Uncertain significance,uncertain
+D186E,Likely benign,benign
+A63G,Likely benign,benign
+N311T,Uncertain significance,uncertain
+Y234D,Pathogenic/Likely pathogenic,pathogenic
+S127C,Likely pathogenic,pathogenic
+R174G,Uncertain significance,uncertain
+P322S,Conflicting classifications of pathogenicity,uncertain
+R290C,Benign,benign
+T284I,Likely benign,benign
+Y236H,Pathogenic/Likely pathogenic,pathogenic
+R196Q,Uncertain significance,uncertain
+L130F,Conflicting classifications of pathogenicity,uncertain
+T125K,Pathogenic,pathogenic
+I50T,Likely benign,benign
+R379L,Likely benign,benign
+I195T,Pathogenic,pathogenic
+C275Y,Pathogenic/Likely pathogenic,pathogenic
+R342P,Pathogenic,pathogenic
+D259G,Uncertain significance,uncertain
+H368Y,Uncertain significance,uncertain
+N235Y,Uncertain significance,uncertain
+R363G,Conflicting classifications of pathogenicity,uncertain
+V197M,Likely pathogenic,pathogenic
+E3G,Uncertain significance,uncertain
+I50N,Uncertain significance,uncertain
+Y163D,Conflicting classifications of pathogenicity,uncertain
+S261T,Uncertain significance,uncertain
+R379S,Likely benign,benign
+R379C,Conflicting classifications of pathogenicity,uncertain
+Q144P,Conflicting classifications of pathogenicity,uncertain
+W146G,Uncertain significance,uncertain
+C176Y,Pathogenic,pathogenic
+D49N,Benign,benign
+P34A,Conflicting classifications of pathogenicity,uncertain
+T155S,Conflicting classifications of pathogenicity,uncertain
+T102I,Conflicting classifications of pathogenicity,uncertain
+G334R,Conflicting classifications of pathogenicity,uncertain
+T140N,Conflicting classifications of pathogenicity,uncertain
+H193L,Conflicting classifications of pathogenicity,uncertain
+V272M,Pathogenic,pathogenic
+C277Y,Conflicting classifications of pathogenicity,uncertain
+E28V,Conflicting classifications of pathogenicity,uncertain
+V157I,Likely benign,benign
+A276G,Pathogenic/Likely pathogenic,pathogenic
+S315T,Likely benign,benign
+P34T,Conflicting classifications of pathogenicity,uncertain
+P72H,Benign,benign
+H193R,Pathogenic/Likely pathogenic,pathogenic
+N247I,Pathogenic,pathogenic
+A138V,Likely pathogenic,pathogenic
+R333C,Likely benign,benign
+E221K,Uncertain significance,uncertain
+T170M,Likely benign,benign
+E286K,Pathogenic/Likely pathogenic,pathogenic
+T125M,Conflicting classifications of pathogenicity,uncertain
+V217M,Conflicting classifications of pathogenicity,uncertain
+D281V,Pathogenic/Likely pathogenic,pathogenic
+I251S,Conflicting classifications of pathogenicity,uncertain
+Y236S,Conflicting classifications of pathogenicity,uncertain
+V216M,Pathogenic/Likely pathogenic,pathogenic
+R175L,Likely pathogenic,pathogenic
+V97L,Conflicting classifications of pathogenicity,uncertain
+P82L,Likely benign,benign
+M384V,Likely benign,benign
+R282L,Uncertain significance,uncertain
+I251L,Pathogenic/Likely pathogenic,pathogenic
+M243T,Conflicting classifications of pathogenicity,uncertain
+C238Y,Pathogenic/Likely pathogenic,pathogenic
+M237V,Conflicting classifications of pathogenicity,uncertain
+V203M,Uncertain significance,uncertain
+R202L,Uncertain significance,uncertain
+Q192R,Conflicting classifications of pathogenicity,uncertain
+A159P,Conflicting classifications of pathogenicity,uncertain
+S127F,Pathogenic/Likely pathogenic,pathogenic
+H115R,Likely benign,benign
+V97D,Uncertain significance,uncertain
+P89L,Conflicting classifications of pathogenicity,uncertain
+A63V,Benign,benign
+P36S,Uncertain significance,uncertain
+R337P,Likely pathogenic,pathogenic
+S241C,Pathogenic/Likely pathogenic,pathogenic
+A161T,Pathogenic/Likely pathogenic,pathogenic
+R280I,Conflicting classifications of pathogenicity,uncertain
+G266E,Pathogenic/Likely pathogenic,pathogenic
+C238W,Pathogenic/Likely pathogenic,pathogenic
+P222L,Conflicting classifications of pathogenicity,uncertain
+G389W,Uncertain significance,uncertain
+M40T,Conflicting classifications of pathogenicity,uncertain
+N263D,Conflicting classifications of pathogenicity,uncertain
+D57E,Conflicting classifications of pathogenicity,uncertain
+P72A,Likely benign,benign
+E339K,Conflicting classifications of pathogenicity,uncertain
+R337L,Likely pathogenic,pathogenic
+P152L,Pathogenic,pathogenic
+T304A,Conflicting classifications of pathogenicity,uncertain
+Y107C,Uncertain significance,uncertain
+D7H,Conflicting classifications of pathogenicity,uncertain
+V143M,Pathogenic/Likely pathogenic,pathogenic
+R181C,Likely pathogenic,pathogenic
+L35F,Likely benign,benign
+G360V,Conflicting classifications of pathogenicity,uncertain
+R337C,Pathogenic,pathogenic
+G108S,Likely benign,benign
+Y107S,Uncertain significance,uncertain
+V73M,Benign,benign
+S303G,Likely benign,benign
+R283H,Uncertain significance,uncertain
+R181H,Pathogenic/Likely pathogenic,pathogenic
+R333H,Benign,benign
+R249K,Conflicting classifications of pathogenicity,uncertain
+R110C,Uncertain significance,uncertain
+Y236D,Conflicting classifications of pathogenicity,uncertain
+L257R,Conflicting classifications of pathogenicity,uncertain
+E358K,Conflicting classifications of pathogenicity,uncertain
+L145P,Conflicting classifications of pathogenicity,uncertain
+S215T,Conflicting classifications of pathogenicity,uncertain
+G360A,Benign,benign
+N131Y,Conflicting classifications of pathogenicity,uncertain
+A86T,Conflicting classifications of pathogenicity,uncertain
+R158H,Pathogenic/Likely pathogenic,pathogenic
+A83E,Conflicting classifications of pathogenicity,uncertain
+E339Q,Likely benign,benign
+R249W,Conflicting classifications of pathogenicity,uncertain
+E287K,Conflicting classifications of pathogenicity,uncertain
+R267W,Pathogenic/Likely pathogenic,pathogenic
+C135Y,Conflicting classifications of pathogenicity,uncertain
+P36Q,Benign,benign
+G374S,Conflicting classifications of pathogenicity,uncertain
+E171K,Likely benign,benign
+A74V,Likely benign,benign
+E298K,Benign,benign
+D42G,Conflicting classifications of pathogenicity,uncertain
+E388A,Likely benign,benign
+S185N,Likely benign,benign
+G361E,Conflicting classifications of pathogenicity,uncertain
+F113V,Conflicting classifications of pathogenicity,uncertain
+G262S,Likely benign,benign
+I232T,Pathogenic/Likely pathogenic,pathogenic
+R335C,Likely benign,benign
+D281G,Pathogenic,pathogenic
+G105D,Conflicting classifications of pathogenicity,uncertain
+T312S,Benign,benign
+V122M,Likely benign,benign
+K120E,Conflicting classifications of pathogenicity,uncertain
+D48E,Likely benign,benign
+T256A,Uncertain significance,uncertain
+H214Q,Conflicting classifications of pathogenicity,uncertain
+R110S,Uncertain significance,uncertain
+A84T,Likely benign,benign
+R282G,Pathogenic,pathogenic
+C141Y,Pathogenic/Likely pathogenic,pathogenic
+Y107H,Benign,benign
+T170A,Uncertain significance,uncertain
+D49H,Benign,benign
+S366A,Benign,benign
+R213Q,Pathogenic/Likely pathogenic,pathogenic
+R202H,Conflicting classifications of pathogenicity,uncertain
+G154S,Uncertain significance,uncertain
+A129V,not provided,uncertain
+H296Y,Likely benign,benign
+V31I,Conflicting classifications of pathogenicity,uncertain
+G293W,Likely benign,benign
+R290H,Benign,benign
+R283C,Likely benign,benign
+R267Q,Uncertain significance,uncertain
+M246R,Conflicting classifications of pathogenicity,uncertain
+N235S,Benign,benign
+Y234C,Pathogenic/Likely pathogenic,pathogenic
+Y220C,Pathogenic,pathogenic
+R202C,Conflicting classifications of pathogenicity,uncertain
+L194F,Pathogenic/Likely pathogenic,pathogenic
+P191R,Likely benign,benign
+H179Y,Pathogenic/Likely pathogenic,pathogenic
+Y163C,Pathogenic,pathogenic
+I162S,Conflicting classifications of pathogenicity,uncertain
+R158C,Uncertain significance,uncertain
+R156H,Uncertain significance,uncertain
+R156C,Conflicting classifications of pathogenicity,uncertain
+R110H,Likely benign,benign
+V10I,Benign,benign
+A83V,Conflicting classifications of pathogenicity,uncertain
+P58R,Conflicting classifications of pathogenicity,uncertain
+H296R,Likely pathogenic,pathogenic
+M246V,Pathogenic/Likely pathogenic,pathogenic
+R196L,Conflicting classifications of pathogenicity,uncertain
+H365Y,Likely benign,benign
+K351E,Uncertain significance,uncertain
+R273C,Pathogenic/Likely pathogenic,pathogenic
+P47S,Benign,benign
+A347D,Pathogenic,pathogenic
+E11Q,Conflicting classifications of pathogenicity,uncertain
+R181L,Conflicting classifications of pathogenicity,uncertain
+E285V,Pathogenic,pathogenic
+Y220S,Pathogenic,pathogenic
+A189V,Conflicting classifications of pathogenicity,uncertain
+R337H,"Pathogenic/Likely pathogenic/Pathogenic, low penetrance",pathogenic
+K292I,Uncertain significance,uncertain
+A138P,Likely pathogenic,pathogenic
+L344P,Likely pathogenic,pathogenic
+R175H,Pathogenic,pathogenic
+L257Q,Conflicting classifications of pathogenicity,uncertain
+P151S,Pathogenic/Likely pathogenic,pathogenic
+P151T,Pathogenic/Likely pathogenic,pathogenic
+R280T,Pathogenic/Likely pathogenic,pathogenic
+G325V,Conflicting classifications of pathogenicity,uncertain
+R273H,Pathogenic,pathogenic
+G245S,Pathogenic,pathogenic
+R282W,Pathogenic/Likely pathogenic,pathogenic
+S241F,Pathogenic/Likely pathogenic,pathogenic
+M133T,Pathogenic,pathogenic
+R248Q,Pathogenic,pathogenic
+G245D,Pathogenic/Likely pathogenic,pathogenic
+C242Y,Pathogenic/Likely pathogenic,pathogenic
+V157F,Pathogenic/Likely pathogenic,pathogenic
+P72R,Benign,benign
+L252P,Conflicting classifications of pathogenicity,uncertain
+G245C,Pathogenic,pathogenic
+E258K,Pathogenic/Likely pathogenic,pathogenic
+R248W,Pathogenic,pathogenic

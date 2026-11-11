@@ -1,0 +1,49 @@
+{
+ "weights": {
+  "pop": 0.15,
+  "cons": 0.25,
+  "rmsd": 0.2,
+  "plddt": 0.1,
+  "phys": 0.15,
+  "inter": 0.075
+ },
+ "domain_add": {
+  "DBD": 0.15,
+  "TET": 0.08,
+  "TAD": 0.02,
+  "PRR": 0.0,
+  "CTD": -0.05,
+  "LINKER": -0.03
+ },
+ "threshold_low": 0.5634,
+ "threshold_high": 0.6056,
+ "youden_all": 0.5773,
+ "fold_thresholds": [
+  0.5634,
+  0.5794,
+  0.6056,
+  0.5773,
+  0.6056
+ ],
+ "auc": 0.8904895984254121,
+ "cv": {
+  "TP": 208,
+  "FN": 25,
+  "FP": 42,
+  "TN": 115,
+  "accuracy": 0.8282051282051283,
+  "sensitivity": 0.8927038626609443,
+  "specificity": 0.732484076433121,
+  "balanced_accuracy": 0.8125939695470326
+ },
+ "in_sample": {
+  "TP": 220,
+  "FN": 13,
+  "FP": 45,
+  "TN": 112,
+  "accuracy": 0.8512820512820513,
+  "sensitivity": 0.944206008583691,
+  "specificity": 0.7133757961783439,
+  "balanced_accuracy": 0.8287909023810174
+ }
+}
